@@ -1,0 +1,1169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Medicina Animæ or, the lamentation, and consolation of a sinner. Together with the severall collections out of the Holy Scriptures. By Joshua Mullard.</title>
+            <author>Mullard, Joshua.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 127 KB of XML-encoded text transcribed from 81 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89408</idno>
+            <idno type="STC">Wing M3065</idno>
+            <idno type="STC">Thomason E1413_1</idno>
+            <idno type="STC">ESTC R209420</idno>
+            <idno type="EEBO-CITATION">99868302</idno>
+            <idno type="PROQUEST">99868302</idno>
+            <idno type="VID">169930</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89408)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169930)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 182:E1413[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Medicina Animæ or, the lamentation, and consolation of a sinner. Together with the severall collections out of the Holy Scriptures. By Joshua Mullard.</title>
+                  <author>Mullard, Joshua.</author>
+               </titleStmt>
+               <extent>[4], 155, [1]   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Harper,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Meditations --  Early works to 1800.</term>
+               <term>Meditation --  Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169930:1" rendition="simple:additions"/>
+            <p>
+               <hi>Medicina Animae:</hi> Or, The LAMENTATION, And CONSOLATION of a Sinner.</p>
+            <p>Together with ſeverall Collections out of the Holy Scriptures.</p>
+            <p>By <hi>Joſhua Mullard.</hi>
+            </p>
+            <q>I ſayd I will confeſſe my ſinnes unto the Lord, and ſo thou forgaveſt the wicked<g ref="char:EOLhyphen"/>neſſe of my ſin. <bibl>Pſa. 32.6.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Harper,</hi> 1652.</p>
+            <pb facs="tcp:169930:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169930:3"/>
+            <pb facs="tcp:169930:3"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">G</seg>Entle Reader, I be<g ref="char:EOLhyphen"/>gan ſome part of this Penitentiall Meditation long ſince, when it pleaſed Almighty God to give me a ſight of my ſinnes, and grace to hate and forſake them. It may ſeeme ſtrange that I ſhould make a publicke confeſſion of them, when they are only knowne to Al<g ref="char:EOLhyphen"/>mighty God and my ſelfe. But I find David confeſſing his Adulte<g ref="char:EOLhyphen"/>ry, and Manaſſes his Idolatry, and
+<pb facs="tcp:169930:4"/>
+S. Paul confeſſing himſelfe to be the greateſt of ſinners; and alſo I finde that whoſoever confeſſeth his ſinnes and forſaketh them, ſhall find mer<g ref="char:EOLhyphen"/>cy: I muſt confeſſe I did not in<g ref="char:EOLhyphen"/>tend to publiſh them, but that I was preſt by many of my friends to it, but more eſpecially when I had read the judgement pronounced a<g ref="char:EOLhyphen"/>gainſt the unprofitable ſervant that hid his Talent, Matth. <hi>25.30.</hi> I thought it more ſafety to ſhew my imperfections to men, then to diſo<g ref="char:EOLhyphen"/>bey my Redeemer, and to loſe my Talent. I deſire thee, Reader, to read it all over before thou cenſure, and to pardon the imperfections thou meetſt with.</p>
+            <closer>
+               <signed>J. M.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:169930:4"/>
+            <head>Medicina Animae: <hi>Or, The great Wound cured.</hi>
+            </head>
+            <head type="sub">Being Pious Meditations and Pray<g ref="char:EOLhyphen"/>ers, on the Lamentation, and Conſolation of a Sinner.</head>
+            <div type="lamentations">
+               <div n="1" type="chapter">
+                  <head>
+                     <hi>CHAP.</hi> I.</head>
+                  <p>
+                     <seg rend="decorInit">O</seg> Who ſhall give water to my head and a foun<g ref="char:EOLhyphen"/>taine of teares to my eyes, that I may bee a<g ref="char:EOLhyphen"/>ble to bewayle the loſ<g ref="char:EOLhyphen"/>ſes of my ſoule with greefe agreeable thereunto? for there is a manifeſt and
+<pb n="2" facs="tcp:169930:5"/>
+great cauſe of ſorrow, when with the ſight of my minde I doe behold my ancient dayes, and my youthfull years: in this Meditation my ſpirit hath fayled mee; for I know what I was, nay rather what I ſhould have beene, and underſtand what I am, and fear what I ſhall be.</p>
+                  <p>And the leſſe I ſorrow, ſo much more doe I feare: I would to God I ſorrowed more, that I might fear leſs.</p>
+                  <p>But woe to me, O Lord, for now a long time thou ſmiteſt, and yet I ſorrow not: Thou calleſt me, and yet I heare not: thou knockeſt, and yet I open not the barre of my hard heart unto thee.</p>
+                  <p>The ſorrows of Death compaſſed mee round about; and being filled with many ſorrowes without, I feele inwardly no ſorrow that may work unto ſalvation: and I feele not onely ſorrowes of old age, but I am a man
+<pb n="3" facs="tcp:169930:5"/>
+of ſorrow from my youth upward; and all my dayes are full of travell and griefe, and yet I ſorrow, becauſe that alwayes ſorrowing, I cannot ſorrow as I ought to ſorrow.</p>
+                  <p>O marvellous and unſpeakable wiſdome of the heavenly Phyſitian! O wonderfull goodneſſe of the moſt mercifull God! O ſingular benefit of him that is the Giver of all good things! for thou, O Lord, giveſt un<g ref="char:EOLhyphen"/>to me ſorrow, leſt I ſhould parish in pleaſures, and that I may learn to re<g ref="char:EOLhyphen"/>joyce without offence, thou giveſt me ſorrow for a time, that I may not ſuffer everlaſting paine: thou afflict<g ref="char:EOLhyphen"/>eſt my body, that thou mayſt ſave my ſoule.</p>
+                  <p>Thou ſcourgeſt, that thou mayeſt heale; thou killeſt, that thou mayeſt quicken.</p>
+                  <p>But alas! how unwillingly doe I receive thy ſalve out of the ſecret
+<pb n="4" facs="tcp:169930:6"/>
+hand of thy mercy? and being igno<g ref="char:EOLhyphen"/>rant, doe not acknowledge the ſove<g ref="char:EOLhyphen"/>reigne medicine of healthfull ſorrow, wherein thou art mercifully ſevere againſt me: and how doe I acknow<g ref="char:EOLhyphen"/>ledge it, if earneſtly I deſire to be de<g ref="char:EOLhyphen"/>livered from ſorrow, who without ſorrow cannot bee healed? for how can hee bee healed without ſorrow, who by delight is made ſicke?</p>
+                  <p>Therefore, O Lord, make mee to ſorrow, and teach mee a ſaving ſor<g ref="char:EOLhyphen"/>row, that my griefe may bee turned into joy, and that I may rejoyce in thy ſalvation.</p>
+               </div>
+               <div n="2" type="chapter">
+                  <head>
+                     <hi>CHAP.</hi> II.</head>
+                  <p>DAyes paſſe away, and yeeres ſlide away; but I unhappy man, after ſo many corruptions of my ſoule, after ſo moſt grievous and long follies, doe not yet repent, nor am
+<pb n="5" facs="tcp:169930:6"/>
+not afflicted for my ſinnes; but con<g ref="char:EOLhyphen"/>tinue the often falling into them a<g ref="char:EOLhyphen"/>gaine, and care not for riſing, from heaping new unto old, and greater unto leſſe.</p>
+                  <p>What ſhall I doe, O Lord, or whi<g ref="char:EOLhyphen"/>ther ſhall I goe, when my laſt time ſhall come? where ſhall I be hidden from thy wrathfull countenance? or whither ſhall I flie away from thy face, when thou ſhalt call mee unto judgement, and require of me an ac<g ref="char:EOLhyphen"/>count, of the talent beſtowd upon me? what ſhall I anſwer unto thee? or how ſhall I excuſe my negligence, when thou ſhalt ſit upon thy throne of Majeſty, and command me to give an account of my ſtewardſhip to the uttermoſt farthing? Surely I have no<g ref="char:EOLhyphen"/>thing to ſay, but Lord I beſeech thee to anſwer for me: for who am I that I ſhould anſwer to thee in judge<g ref="char:EOLhyphen"/>ment? but if thou compell me to an<g ref="char:EOLhyphen"/>ſwer,
+<pb n="6" facs="tcp:169930:7"/>
+I wil ſay as a man confounded, trembling, and fearing; O Lord, I have gayned nothing thereupon, but have wickedly and vainely miſpent and conſumed thy talent by my baſe living; I ſhould better have ſayd by dying; but then I thought I lived, but I was dead, becauſe I lived without thee my true life; yea the life of a wicked man may rather bee called death then life. I may ſay I ſooner began to die then live; firſt I did not underſtand what life was, when I had forſaken the life of lives, and fountaine of life. And mallice did ſupplant my yong age in manifold wickedneſſes. I was ſcarce come out of my mothers womb, but I was al<g ref="char:EOLhyphen"/>ready a ſinner: comming into the world, being yet ignorant of ſinne, I did bewaile the ſinnes wherein my parents begot me: neyther did I alto<g ref="char:EOLhyphen"/>gether leave bewailing others ſinnes,
+<pb n="7" facs="tcp:169930:7"/>
+when I committed my own, which I knew, and did not bewayle. Being an Infant, I followed iniquity, and ſpent my childhood wherin I ſhould have beene pure, impurely. There breathed ſlimy vapours from the ſin<g ref="char:EOLhyphen"/>full corruptions of my fleſh, and the ſpring of my youth did ſhadow my heart, that it could not diſcerne light from darkneſſe, and the clearneſſe of the mind, from the miſt of luſt; and trayterous and crafty pleaſures, did carry my weake and forgetfull looſe age into the headlong rocke of luſt, ſo as I boyled up in wicked deſires to be ſatisfied in Hell.</p>
+                  <p>From my childhoode I grew to growing yeeres, neither was I ſoon<g ref="char:EOLhyphen"/>er growing towards youth, then my wickedneſſe did grow ripe, and I was bold to grow wild in divers in<g ref="char:EOLhyphen"/>ordinate luſts, by the which beeing drawn, by the griefe of wickedneſſe, I
+<pb n="8" facs="tcp:169930:8"/>
+was drowned to death, and deſtructi<g ref="char:EOLhyphen"/>on: the evill and wicked daies of my growing years paſſed on, and I grew towards youth, but I returned back<g ref="char:EOLhyphen"/>wards in filthineſs and vanity: And as I was elder, I was a yong man, and came to bee a man; but Vice al<g ref="char:EOLhyphen"/>waies flouriſhed in me inſtead of Ver<g ref="char:EOLhyphen"/>tue: I waxed old and grey, and did not walk in thy waies, but as a child, being now an Old man, I lived chil<g ref="char:EOLhyphen"/>diſhly.</p>
+                  <p>Where then at any time have I bin innocent, that I ſhould bee judged of thee according to the time of my innocency, though thou didſt appoint it me unto judgement? for thou art juſt, O Lord, and righteous in all thy judgements; for thou rendreſt to e<g ref="char:EOLhyphen"/>very one according to his works: and I feare all mine, becauſe they are the workes of darkneſs: And I have been a worker of iniquity from the
+<pb n="9" facs="tcp:169930:8"/>
+beginning and have alwaies willing<g ref="char:EOLhyphen"/>ly followed the works and paths of unrighteouſneſs; I have wallowed in ſin, as the Swine in filthineſs, and as the Prodigall was fed with Husks, ſo was I delighted with filthy and e<g ref="char:EOLhyphen"/>vill words, and grieved with earneſt, and profitable ſayings; I did com<g ref="char:EOLhyphen"/>municate with thoſe that wrought iniquity, and did banquet with the chief of them, and did glory in ſin.</p>
+                  <p>Being mighty in iniquity, I loved to excuſe, and could not accuſe my ſelfe, and made heavy my heart; and the more incurable is my ſinne, for that I did not thinke my ſelfe to be a ſinner: Neither did I not onely ſeek a medicine for my ſoule which was ſick unto death, but refuſed it being offered, yea, with an unreverent and untamed minde was wroth againſt them that would miniſter it unto me; I deſpiſed them that reproved me, and
+<pb n="10" facs="tcp:169930:9"/>
+imbraced them that ſpake pleaſing unto me, and delighted in their ſpee<g ref="char:EOLhyphen"/>ches that had not their hearts right unto me: I ſtudied devices, and lies in all things, and loved rather dark<g ref="char:EOLhyphen"/>neſs then light: Behold, O Lord, I have delivered my ſelfe unto thee; this is the courſe of my life, wherein I have deſerved thy wrath; this will I anſwer unto thee, when thou ſhalt ask of me: But do not remember the offences of my youth, nor my igno<g ref="char:EOLhyphen"/>rances, O Lord, and enter not into judgement with thy ſervant, for no living creature ſhall be juſtified in thy ſight; but if thou wilt enter, becauſe thou art a God that loveth judgment, doe judgement unto me, but not ju<g ref="char:EOLhyphen"/>ſtice; and judge me according to the judgement of thoſe that love thy name, that I may ſing unto thee mer<g ref="char:EOLhyphen"/>cy and judgement.</p>
+                  <p>Remember, O Lord, that though
+<pb n="11" facs="tcp:169930:9"/>
+I am wicked, yet I am thy ſervant, and the ſon of thy handmaid; and do not looke into the multitude of my ſinnes, but unto the greatneſs of thy mercies, and when thou ſhalt be an<g ref="char:EOLhyphen"/>gry with me for my wickedneſſe, re<g ref="char:EOLhyphen"/>member thy mercy, and be not angry with me for ever; but have mercy upon thy afflicted ſervant, that my ſoule may praiſe thee, and confeſs thy mercifulneſs.</p>
+               </div>
+               <div n="3" type="chapter">
+                  <head>
+                     <hi>CHAP.</hi> III.</head>
+                  <p>VVOE unto mee, wretched man, becauſe I have made my Redeemer angry with me, and I have rebelliouſly neglected his Law, and I have willingly forſaken the right way; and as a ſheepe that refu<g ref="char:EOLhyphen"/>ſeth the ſhepheard, I have been carri<g ref="char:EOLhyphen"/>ed far and wide round about, through
+<pb n="12" facs="tcp:169930:10"/>
+dry unwatered places, wandring in the wilderneſſe of wickedneſſe, and not in the right way. I have gone to all rough and unacceſſible places, and every where was anguiſh and tribu<g ref="char:EOLhyphen"/>lation: I have beene wearied in the way of iniquity and perdition, and have walked in hard wayes, ſeeking reſt, and finding none; becauſe I did not ſeek thee, O Lord, but was in a barren land, in the country of Death, where is no reſt, but continuall labor &amp; affliction of ſpirit dwelleth there. I dwelt in anguiſh with pleaſures, and amongſt thornes did I make my bed, and ſleep in death, and hoped for reſt in torments: now therfore what ſhal I doe, whither ſhall I turne my ſelfe in theſe great dangers? All the hopes of my youth are faln down, and I am like one that ſuffereth ſhipwrack, who having loſt all his wealth, ſwim<g ref="char:EOLhyphen"/>meth away naked, being toſt with
+<pb n="13" facs="tcp:169930:10"/>
+the wind and ſea, and am driven far from the haven of happineſs, and doe not take hold of the way of ſalvati<g ref="char:EOLhyphen"/>on, but am carried away on the left hand: the enemy had placed nets for me which way ſoever I went, and ſnares for my feet, and I deſpiſed them, and walked ſecurely in ſlippery places, and flattered my ſelfe in ſins; I thought youth was not held by the lawes of death, and being deceived by this confidence, I followed the fil<g ref="char:EOLhyphen"/>thy deſires of the fleſh, and gave the reines beyond the meaſure of ſenſua<g ref="char:EOLhyphen"/>lity, following it whereſoever the force thereof did carry me; and ſayd like a foole in my heart, Wherefore doeſt thou think of the end before the middle? thou haſt many dayes yet re<g ref="char:EOLhyphen"/>mayning, and mayſt bee converted when thou liſteſt: ſo waxed I old in ſin, and a moſt wicked cuſtome was turned into nature: and now as a
+<pb n="14" facs="tcp:169930:11"/>
+bondſlave to ſinne, I ſerve as it were chayned, and as a mad man haling his owne fleſh ſeeketh to hurt himſelfe, all reaſon of deliberation being quen<g ref="char:EOLhyphen"/>ched, ſo I more grievouſly and dan<g ref="char:EOLhyphen"/>gerouſly have hated my owne ſoule; for the impenitency of my heart, and obſtinate wilfulneſſe, hath layd vio<g ref="char:EOLhyphen"/>lent hands upon me, and hath diſtra<g ref="char:EOLhyphen"/>cted and diſturbed my poore diſtreſ<g ref="char:EOLhyphen"/>ſed ſoule: and ſo having brought un<g ref="char:EOLhyphen"/>to my ſelfe the horrour of Hell every day more and more, according to the hardneſſe of my impenitent heart, I doe heap up wrath againſt the day of wrath. I have made triall ſometimes to ſhake off the old yoke, but am not able, becauſe it cleaveth to my bones. Oh that at length it may fall from my necke, that I may love thee though late! It ſhall ſurely fall away, if thou command, O Lord, and ſend me help from above. I confeſſe I have not
+<pb n="15" facs="tcp:169930:11"/>
+deſerved it, but thou, O moſt gracious giver, who makeſt the Sun to riſe in<g ref="char:EOLhyphen"/>differently upon the good, as alſo upon the bad, and granteſt tem<g ref="char:EOLhyphen"/>porall bleſſings to the unworthy, e<g ref="char:EOLhyphen"/>ven when they aske them not; how canſt thou deny ſpirituall things to thoſe that require them? have mercy upon me therfore, O Lord, and fulfill the deſires of a poore penitent ſinner: thou that art rich in mercy, and wont cheerefully to have mercy, and doeſt purge the will from evil cuſtome, and heareſt the groanings of thoſe that are bound, and looſeſt us from the bonds which wee have made to our ſelves, unleſſe wee refuſe thy mercy: Give thy right hand unto the worke of thy hands, that when I fall I may not be bruiſed; and that I may not be drawn into the deep pit of perdition: Deli<g ref="char:EOLhyphen"/>ver mee from the mouth of the cruell Lion that is ready for the prey, and
+<pb n="16" facs="tcp:169930:12"/>
+gapeth for my ſoule that hee may de<g ref="char:EOLhyphen"/>vour it; for thou onely art my prote<g ref="char:EOLhyphen"/>ctor, and my deliverer, and in thy mercy is my hope; let thy mercy therefore be ſhewed unto me, as I have truſted in thee; Lord, in thee do I put my whole truſt and confidence, Lord let me never be confounded.</p>
+               </div>
+               <div n="4" type="chapter">
+                  <head>
+                     <hi>CHAP.</hi> IV.</head>
+                  <p>MY nights paſs away in grief, and vex mee with innumerable ter<g ref="char:EOLhyphen"/>rors: my Conſcience ſhaketh mee while I am awake, and I am tormen<g ref="char:EOLhyphen"/>ted therewith as if I were wounded with a two edged ſword; my ſleep is troubled with divers illuſions, brin<g ref="char:EOLhyphen"/>ging me no reſt, but travell; I watch all night in my thoughts, and when (as being wearied) I do endeavour to give ſome ſleep to my eye-lids, by
+<pb n="17" facs="tcp:169930:12"/>
+and by ſleep departeth from my eies, and when I ſleep, I ſleep alwayes in ſorrow, being wakened with an un<g ref="char:EOLhyphen"/>quiet wearineſs from the Care of the day, and all my inward parts are in<g ref="char:EOLhyphen"/>flamed without reſt: the meat which before I deſired, is made abominable to my ſoule, and my drink is mingled with teares, and confuſion is before my eyes, and redneſs in my cheekes, when I remember how grievouſly I have offended thee, O my God, and in how many thoughts, deeds, and deſires I have abuſed my ſtrength, and thy gifts I have ſpent in vanity: E<g ref="char:EOLhyphen"/>verlaſting cares have conſumed me, and being carried hither and thither with ſenſleſs cogitations I have ſpent my time: I feigned to my ſelf dreams ſometimes, and rejoyced, and vani<g ref="char:EOLhyphen"/>ſhed away being deluded in vanities and madneſs. To conclude, I lived in all kinde of pleaſure in the world,
+<pb n="18" facs="tcp:169930:13"/>
+being baniſhed far from the delights of thy houſe; and if at any time the fear of death and the laſt judgement did quicken my ſloath, and for a little time call me from the deep gulph of pleaſures, by and by I returned as a dog to his vomit, being dead in them, I yet live, and abiding in death, I ha<g ref="char:EOLhyphen"/>ſten to death, and ſee death ſwift by comming to mee: But let thy mercy quickly prevent me, before the terri<g ref="char:EOLhyphen"/>ble day of miſery and calamity doe come, the great and bitter day, that though I die, I may live, and declare thy mercies above all thy workes: Look back, Lord, and behold how my ſoule lieth in her concupiſcence, ſicke of the Palſey, and is evill vexed therewith; deliver it from death, that it may cleave to thee alone who art only the true life, and leaving all o<g ref="char:EOLhyphen"/>thers, follow thee that art above all: ſay unto my ſoule, O Lord God of my
+<pb n="19" facs="tcp:169930:13"/>
+ſalvation, be it unto thee as thou de<g ref="char:EOLhyphen"/>ſireſt; make mee to heare this thy voyce a voyce of rejoycing, and ſalva<g ref="char:EOLhyphen"/>tion, that I may run after thee, and take hold of thee, and not let thee go untill thou ſendeſt mee whole away; for (being ſick) to whom ſhould I go but to thee, that I may be cured? or who can heale my infirmities but he, that for me, and mankind, came down from Heaven, that they may be hea<g ref="char:EOLhyphen"/>led of their griefs? who can quicken but he that can mortifie, and quicken all things? who can ſave, but thou O my God and Saviour? ſave mee therefore, and quicken me, thou that art the life, and ſalvation everlaſting, of all that put their truſt in thee; and to thee that art without beginning, be glory without end: To thee bee Praiſe and Honour, to thee be conti<g ref="char:EOLhyphen"/>nuall Worſhip, and thankſgiving; thou art the everlaſting Spring of
+<pb n="20" facs="tcp:169930:14"/>
+mercy, for I was gone far from thee, and did run away, and yet thou doeſt ſpeedily come to him that is ſick, and doth run away, when he doth call up<g ref="char:EOLhyphen"/>on thee, and doſt grant his health be<g ref="char:EOLhyphen"/>fore thou heareſt his ſighs; for to bee willing to bee healed is enough that thou ſhouldeſt heale, and to bee wil<g ref="char:EOLhyphen"/>ling to live, that thou ſhouldeſt grant life; and in the bleſſings of thy ſweet<g ref="char:EOLhyphen"/>neſs doſt prevent the deſires of a ſin<g ref="char:EOLhyphen"/>ner that doth know himſelfe; there<g ref="char:EOLhyphen"/>fore I will ſay unto thee, I know my iniquity, and what it is to know, be<g ref="char:EOLhyphen"/>cauſe all my bones are vexed within me, and my ſoule is very much troub<g ref="char:EOLhyphen"/>led for my ſin.</p>
+                  <p>Behold! I lay all my iniquities be<g ref="char:EOLhyphen"/>fore thy ſight, O my God, that thou mighteſt heale and cure my ſoule, be<g ref="char:EOLhyphen"/>cauſe it hath ſinned againſt thee: for thou art a God that deſireſt not the death of a ſinner, but rather that hee
+<pb n="21" facs="tcp:169930:14"/>
+ſhould be converted and live; for the dead ſhall not praiſe thee, O Lord, but wee that live doe bleſſe thee, O Lord, and do confeſſe that thy mercy is everlaſting, and thy compaſſions never faile.</p>
+               </div>
+               <div n="5" type="chapter">
+                  <head>
+                     <hi>CHAP.</hi> V.</head>
+                  <p>I Have revealed my miſeries to thee, O Lord, not to make knowne my wayes unto thee, that didſt not know them all from the beginning, and haſt numbred all my ſteps; for thou kno<g ref="char:EOLhyphen"/>weſt the hidden places of darkneſſe, and all things are naked open to thy eye; and thou doeſt not only ſee, but diſcerne the lurking places of our thoughts, and the marrow of our af<g ref="char:EOLhyphen"/>fections: but I uncover, that thou mayeſt cover and protect: I reveale, that thou mayſt hide and give mee an
+<pb n="22" facs="tcp:169930:15"/>
+humble and contrite ſpirit, and by the offering of this ſacrifice, which is moſt acceptable unto thee, be merci<g ref="char:EOLhyphen"/>full unto me, and forgive me my ſins. I have ſpoken many and great things, and yet ſayd little; for the worme of my conſcience doeth pricke mee in more: I would to God it might draw away the rottenneſs, that by grieving it might conſume it, and withall bee it ſelfe conſumed: but woe is mee, for when I think I have made an end of telling my evills, then am I con<g ref="char:EOLhyphen"/>ſtrayned, as it were, to begin againe, and my memory being full of unclea<g ref="char:EOLhyphen"/>neſſe, doeth abundantly remember much more filthin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſe; for I have ſin<g ref="char:EOLhyphen"/>ned above the number of the ſands of the ſeas; and if I had a hundred tongues, and a hundred mouthes, I ſhall ſcarſe anſwer one of a thouſand thouſand; yet that increaſeth all my griefe, that I cannot remember all
+<pb n="23" facs="tcp:169930:15"/>
+my filthineſs paſt, and the fleſhly cor<g ref="char:EOLhyphen"/>ruptions of my ſoule; for while I forget new ſins I forget the old, but thoſe that I remember I will not hide, not that I will love them again more, but that I may love thee more ear<g ref="char:EOLhyphen"/>neſtly, O my God, and that I remem<g ref="char:EOLhyphen"/>bring my wicked waies in the bitter<g ref="char:EOLhyphen"/>neſs of my remembrance, thou mayeſt be ſweet unto me by the pardon of them: But I have not purged the old, but rather from them did ſpring up many new ſinnes, for the which I am as it were caſt out from before thy face, O my God; and being deprived of the comfort of thy preſence, I fall almoſt into deſperation, knowing not whither I goe; and who will look u<g ref="char:EOLhyphen"/>pon my face, if thou turn away from me, and as a Reprobate deprive me of thy ſight, I ſhall undoubtedly become hatefull unto all men, and as a wan<g ref="char:EOLhyphen"/>derer, and a runnagate in the Land, I
+<pb n="24" facs="tcp:169930:16"/>
+ſhall be made a ſlave unto them, when they ſhall aske of mee, where is thy God? and wherfore hath he put thee from him? what ſhall I doe therfore, O wretched man that I am? or what ſhall I ſay when I ſee my ſelf eſtran<g ref="char:EOLhyphen"/>ged from thy protection, and forſa<g ref="char:EOLhyphen"/>ken in the midſt of my enemies that fight mightily againſt me? I will ſeek thy face, O Lord, and with ſighes and teares beſeech thee not to leave me, nor in anger to depart from thy ſervant; for all mine enemies follow me as a fugitive to deſtroy my ſoule: and therefore I muſt ſeeke refuge at thy hands to whom I flie, O my God, my ſtrength, my health, my refuge, in the day of tribulation: for as there is no God beſides thee, ſo there is no Saviour beſides thee. Thou therfore, O Lord, that knoweſt all my miſeries, and from whom the workes of my weakneſſe are not hidden, caſt behind
+<pb n="25" facs="tcp:169930:16"/>
+thy back all my offences, and doe not remember all my old iniquities, but ſave me according to thy mercy from all thoſe that perſecute mee, and deli<g ref="char:EOLhyphen"/>ver mee becauſe there is none can re<g ref="char:EOLhyphen"/>deem me and ſave me, but thou, O Lord, who ſaveſt all that truſt in thee, and delivereſt the poore from the mighty, and from the hands of them that are ſtronger then he. Hide not therefore thy face from mee, O Lord, neither deſpiſe me, my ſaving God, my ſtrength, and my deliverer; for I am poor and in miſery, and thine eies look upon the poore: and if thy ju<g ref="char:EOLhyphen"/>ſtice ſeeke me, hide me in the boſome of thy mercy, wherin thou haſt with long ſuffering beene with me, and in<g ref="char:EOLhyphen"/>vited me to repentance; for thou art long ſuffering, and very patient, and exceeding mercifull above all my wickedneſs; yea nothing is more proper to thee, O Lord, then to ſpare,
+<pb n="26" facs="tcp:169930:17"/>
+and therefore thou haſt mercy upon all, and draweſt the ſonnes of men to repentance, becauſe thou canſt do all, and thou ſpareſt all, becauſe they are thine, O Lord, thou loveſt ſouls; turn me therefore unto thee, and deliver my poore afflicted ſoule from danger, that my mouth may bee filled with thy praiſe, and ſay unto thee, Bleſſed be thou, O Lord, who haſt not ſuffe<g ref="char:EOLhyphen"/>red me to be delivered into the hands of my adverſaries; except thou, O Lord, hadſt been my Helper, they had ſwallowed me up quicke: my ſoule as a ſparrow was delivered from the ſnare of the Fowler; the ſnare is bro<g ref="char:EOLhyphen"/>ken, and I am delivered.</p>
+               </div>
+               <div n="6" type="chapter">
+                  <head>
+                     <hi>CHAP.</hi> VI.</head>
+                  <p>O Wretched man that I am! what ſhall doe? for the great wild
+<pb n="27" facs="tcp:169930:17"/>
+Beaſt hath almoſt devoured my ſoule, and I have been made a prey to the e<g ref="char:EOLhyphen"/>nemy: he hath ſpoyled me of all thoſe goods wherewith thou, O Lord, haſt beautified me, and I am afraid to ap<g ref="char:EOLhyphen"/>pear before thee; I departed rich and beautifull from thy face, and went wandring after filthineſs in a corrupt way, and in the wickedneſſe of my heart my ſoule is made black, and the excellent colour thereof is changed, and I have ſo impoveriſhed and defor<g ref="char:EOLhyphen"/>med my ſelf by wearing the foul gar<g ref="char:EOLhyphen"/>ment of ſinne, (according to the like<g ref="char:EOLhyphen"/>neſs of Adams offence) as thou O Lord, wilt not know mee, according to the image wherein thou haſt crea<g ref="char:EOLhyphen"/>ted mee, and wilt not ſuffer mee (as a ſcab'd ſheepe) to dwell among the ſheepe of thy paſture: How then ſhall I preſume to returne to the pre<g ref="char:EOLhyphen"/>ſence of thy Divine Majeſty, in whoſe ſight the Heavens are not cleane, but
+<pb n="28" facs="tcp:169930:18"/>
+empty, vile, and unclean? or how ſhall I preſume to communicate a<g ref="char:EOLhyphen"/>mongſt thy choſen people, being made fooliſh by offending: I deſire to return unto thee, though aſhamed, and afrayd, truſting to thy mercy, for thou art a ſweet Father to thy Sonne that did travel into a farre Countrey; be more ſweet to him when he retur<g ref="char:EOLhyphen"/>neth from a long pilgrimage: O my God, I want power to come to thee, for I am kept faſt bound by a moſt cruell robber, not with ſtrong iron, but with iron of my own will, wher<g ref="char:EOLhyphen"/>of the enemy hath made a chaine for me, and bringeth my heart into ſor<g ref="char:EOLhyphen"/>row, ſlavery, and bitterneſs: my re<g ref="char:EOLhyphen"/>fuge is far from mee, for ſalvation is far from ſinners, and I am compelled to die in moſt miſerable bondage, un<g ref="char:EOLhyphen"/>leſs thou, O Lord, looking down from Heaven, doſt help me: I ſtick faſt in the ſlimy filth of the earth, and a tem<g ref="char:EOLhyphen"/>peſt
+<pb n="29" facs="tcp:169930:18"/>
+of temptations, even like the wavs of the cruel ſea, hath overwhel<g ref="char:EOLhyphen"/>med me, and almoſt drowned me, ſo that I am in deſpair of avoyding theſe eminent dangers, unleſs thou, O Lord, ſhalt take me up; for the more I en<g ref="char:EOLhyphen"/>deavour to riſe, the more I am bruiſed; I am both within and without trou<g ref="char:EOLhyphen"/>bleſome to my ſelfe, and every where I do find domeſtick enemies that doe beat mee down; I looke on the right hand, and on the left, and ſee none to whom I may commit my ſelfe in ſafe<g ref="char:EOLhyphen"/>ty, but every where feare doth ſhake me, and to whomſoever I come, I find not a faithfull friend; and how ſhould I find any, when my ſelfe doe not keep my faith given to my God? I have ſought meanes to comfort mee in my afflictions, and calamities, and there was none of my deare friends that would comfort mee, but I met with friends that were full of words,
+<pb n="30" facs="tcp:169930:19"/>
+nay dumb rather, and therefore dumb, O my God, becauſe thy word did not ſound from their lips, who did con<g ref="char:EOLhyphen"/>demn my wants without Compaſſi<g ref="char:EOLhyphen"/>on, and did falſely provoke ſtrife a<g ref="char:EOLhyphen"/>gainſt me: I have often conſented to fooliſh deceivers, and ſwerving from the right Path, I ignorant agreed to their opinions, and by little and little was brought to ſuch toyes, and mad<g ref="char:EOLhyphen"/>neſs, as though by the helpe of thy Grace, I never departed from thy true Religion, yet I did believe in many fables, which makes me unexcuſable; for that when I knew thee to bee al<g ref="char:EOLhyphen"/>waies a God in truth, I did not wor<g ref="char:EOLhyphen"/>ſhip thee in ſpirit, and in truth, but changed this truth into lies, and ſer<g ref="char:EOLhyphen"/>ved the creature, rather then the Cre<g ref="char:EOLhyphen"/>ator, and ſought my ſelfe, and my pleaſures in corruptible things: But thou, O Lord, and my Saviour, pro<g ref="char:EOLhyphen"/>ceed on, and as thou haſt made me by
+<pb n="31" facs="tcp:169930:19"/>
+true faith to acknowledge thee, awa<g ref="char:EOLhyphen"/>ken me up from the ſleep of ſin, that I never ſleep unto death: lighten, kin<g ref="char:EOLhyphen"/>dle, and lift up my heart unto thee, that in thy light I may behold the e<g ref="char:EOLhyphen"/>verlaſting light, the unquenchable light that never faileth, the ſweet and delightfull light, that I may ſee, and rejoyce, and covet that light, and to know, that nothing is to be loved be<g ref="char:EOLhyphen"/>ſides thee, but in thee, and for thee: Thou, O Lord, art the true light that doſt illuminate all men comming un<g ref="char:EOLhyphen"/>to thee; cauſe this light to riſe in my darkneſs, and make me to deſire to ſee thy ſalvation, that my ſoule being melted away with the force of love, may attain to thy ſaving health, and thirſt after thy delights: My ſoule I ſay, but let me not call it thine, be<g ref="char:EOLhyphen"/>cauſe thou didſt make it, and give i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> unto mee, and mine becauſe I recei<g ref="char:EOLhyphen"/>ced it from thee: keep therefore thy
+<pb n="32" facs="tcp:169930:20"/>
+creature, which thou haſt eſpecially framed according to thine owne I<g ref="char:EOLhyphen"/>mage, and ſuffer not thy precious gift which thou haſt purchaſed with thy moſt precious bloud to periſh; but upon my body and members worke what it pleaſeth thee; let my fleſh be cloathed with rottenneſſe, and my bones conſumed with worms; but I beſeech thee, O Lord, onely to ſpare my ſoul, and ſtretch not out thy hand againſt it, but bring me back againe into the way, before the going down of the Sun, for it groweth towards the evening of my age, wherefore compell me to come unto thee, if to call bee too little; compell mee as it pleaſeth thee, ſo I may come, and not periſh; not for my ſelfe, who have ſo often abuſed thy mercy, and made my ſelfe unworthy thereof, but for thy holy name ſake, take from mee a ſtony heart, and give unto me a heart
+<pb n="33" facs="tcp:169930:20"/>
+of fleſh, and place thy ſpirit in the midſt of mee, that I may walke in thy Precepts, and keep thy Judgements: I come too late unto thee, O Lord, I confeſſe, I would to God I had come ſooner; but I know, and am aſſured that thou preſcribeſt no time to thoſe that come, ſo they come at laſt, and thou receiveſt the laſt as gently as thou doſt the firſt: for although thou hateſt ſin, yet thou hateſt not the ſin<g ref="char:EOLhyphen"/>ner; neither doſt thou rejoyce in his deſtruction: therefore though he tar<g ref="char:EOLhyphen"/>ry long before his converſion, yet thou doſt patiently look for him: O how ſweet and pleaſant is that ſaying wherewith thou haſt given hope and comfort to my ſoule! thou haſt plaid the harlot with many lovers, yet re<g ref="char:EOLhyphen"/>turne thou unto me and I will receive thee: How delightfull and pleaſant is that word wherewith thou com<g ref="char:EOLhyphen"/>forteſt ſinners that are in deſpaire of
+<pb n="34" facs="tcp:169930:21"/>
+themſelves I if a ſinner repent him for all his ſinnes, he ſhall live and not die; for the death of a ſinner is not thy will, for with great joy I heare thee, when thou ſaiſt that the ſheepe that had gone aſtray, ſhall be brought home upon the Shepheards ſhoulders, and that the groat ſhall be layd up in the treaſures; the neighbours rejoy<g ref="char:EOLhyphen"/>cing with the woman that found it, and the joy of the ſolemnity of that houſe did force tears from me, when I read of the younger ſonne that was dead, and lived againe: Therefore give, O Lord, unto my ſoul the voice of thy vertue; and not of thy vertue alone which ſhaketh off the ſleep of ſouls; but alſo the beams of thy light which doth ſhew to men their ſins, but giveth light alſo to the hidden places of darkneſſe: Let thy voyce ſound in the years of my heart, and ſay unto my ſleeping ſoule, why art
+<pb n="35" facs="tcp:169930:21"/>
+thou ſo long oppreſſed with a deadly ſleep, and kept in Captive bonds? It is now time that thou forſake thy ſins, and to returne to thy Maker that Redeemed thee: Returne, O thou Shunamite, returne, that I may behold thee to return, and defer no longer to come to mee; for I am the Lord thy God that calleth thee; I am he that blotteth out thine iniquities for my ſelfe, neither carry in remembrance things paſt: Then will I ſay boldly to my ſoule, turne thee to thy reſt for the Lord hath done well unto thee; go ſafely unto him, and though thou be weary in thy wicked waies, go on the ſwifter in the waies of goodneſſe, that thou mayeſt the ſooner take reſt; be not made afraid for thy ſins, for if they be as red as ſcarlet, they ſhall be made as white as ſnow; as a Cloud they ſhall be put away; and fear not to be accuſed of boldneſs, where thou
+<pb n="36" facs="tcp:169930:22"/>
+art praiſed for obedience: Go, and make haſt, O my ſoule unto him that came not to call the righteous but ſin<g ref="char:EOLhyphen"/>ners; and if thou art a ſinner, thy God is the God of ſinners, wherefore doſt thou fear to go, thou that art not called of a cruell Judge, but by the Father of mercy, that thou mayeſt ob<g ref="char:EOLhyphen"/>taine mercy: therefore go now wil<g ref="char:EOLhyphen"/>lingly, being called to mercy, that thou be not hereafter compelled to go unto judgement. In thee, O Lord, do I truſt, wherefore I will not be aſha<g ref="char:EOLhyphen"/>med to confeſſe unto thee my defor<g ref="char:EOLhyphen"/>mities, and blaſphemies, who was not aſhamed to confeſſe them before men, and to barke againſt thee: Let the Phariſes murmure and ſay, who can forgive ſins but God alone? for it is God that ſpeaketh unto mee, and to whoſoever that putteth his truſt in him; he that calleth me is mild, and pittifull, and in his wrath remem<g ref="char:EOLhyphen"/>breth
+<pb n="37" facs="tcp:169930:22"/>
+mercy; and therefore upon thy words wil I aſſuredly come unto thee, O my God, my truſt and my portion, in the Land of the living; I will come and fall downe before thee, and not fear thy Majeſty, becauſe thou calleſt me, and that I offend not thine eyes, when I ſhall appeare uncleane in thy ſight, I will wash away my filthineſs with continuall tears, and my ey-lids shall not reſt from weeping, but my bed shalbe privy to my ſorrow, wher<g ref="char:EOLhyphen"/>in I hope to pleaſe thee, though I diſ<g ref="char:EOLhyphen"/>pleaſe my ſelfe, and being by thee converted unto thee, I repent mee of thoſe things that I have commited a<g ref="char:EOLhyphen"/>gainſt thee, that I may praiſe thee with a clear heart, ſaying, O Lord, who is like unto thee? for then is thy praiſe ſeemly in the mouth of a Sinner, and hee that hath ſowed in teares, shall reap in gladneſs.</p>
+               </div>
+               <div n="7" type="chapter">
+                  <pb n="38" facs="tcp:169930:23"/>
+                  <head>
+                     <hi>CHAP.</hi> VII.</head>
+                  <p>HAve mercy upon me, O Lord, for I am in trouble, and vexed with unſpeakable miſeries; for flouds of iniquity doe vex mee, and the waters have entred into my ſoule, as a River that is overflown: for my ſins which I have hitherto diſſembled, and much neglected to confeſſe and amend, are growne ſo high that they have paſſed over my head, and bowed my minde and will to the concupiſcence of ſen<g ref="char:EOLhyphen"/>ſuall deſires, yea made mee ſubject to the ſlavery of the Divell: Woe bee unto me, for I am mortally wounded, and there is no health in me, from the crown of my head, to the ſole of my foot: for my enemie hath ſupplant<g ref="char:EOLhyphen"/>ed me, and as a moſt cruell tyrant tor<g ref="char:EOLhyphen"/>mented me, and hath deprived mee of
+<pb n="39" facs="tcp:169930:23"/>
+all my ſenſes, leaving only my under<g ref="char:EOLhyphen"/>ſtanding, thereby joyning the know<g ref="char:EOLhyphen"/>ledge of my hurt and loſſe, that hee might alſo increaſe my ſorrowes: hee had done little hurt if hee had depri<g ref="char:EOLhyphen"/>ved me of the uſe of all my ſenſes, and had made mee utterly ſenſleſſe in all my actions; but he hath deprived me thereof for doing that which is good, and hath violently enforced me unto evill, and hath ſo infected my minde which is altogether bent towards things with a certaine aſtoniſhment of inward ſenſeleſneſſe, that ſhe can<g ref="char:EOLhyphen"/>not feele her inward hurts: for when I ſhould have heard, I was deafe, and turned my eares from the truth, when it had beene fitter for mee to ſtop my eares from hearing unprofitable things, and the toyes of many men, I was ſwift to heare and a gentle hea<g ref="char:EOLhyphen"/>rer: Heavenly things I taſted unſa<g ref="char:EOLhyphen"/>voury, and my ſoule loathed all ſpiri<g ref="char:EOLhyphen"/>tuall
+<pb n="40" facs="tcp:169930:24"/>
+meats, but I judged earthly things ſweeter then honey, or the ho<g ref="char:EOLhyphen"/>ney combe: I was blind and an earth<g ref="char:EOLhyphen"/>ly man in beholding thoſe things that were good, but worldly things I loo<g ref="char:EOLhyphen"/>ked on with a proud eye, and deſired them with an unſatiable heart: ney<g ref="char:EOLhyphen"/>ther in my ſenſes alone, but my mem<g ref="char:EOLhyphen"/>bers alſo which God gave me for the ſervice of my ſoule, did the ancient enemy ſhut up from mee the way of ſalvation, and prepared ſuch cruell ambuſhes againſt mee in this cruell ſiedge, as I was never able to avoyde them, and as often as I tried to flie a<g ref="char:EOLhyphen"/>way, I fell into his hands: for I did offend both by ſeeing and refuſing to ſee, by hearing and by being deafe, by ſpeaking and holding my peace; to conclude, I changed all the peculiar and common uſe of my ſenſes, and members, into a filthy abuſe, burning in my uncleane deſires, for that I have
+<pb n="41" facs="tcp:169930:24"/>
+tranſgreſſed all the Lawes both of God and man, and Nature, and have lived diligently onely obſerving the lawes of ſin. I would to God I had been only ſo, and now were not, but alaſſe! becauſe I am the ſame that be<g ref="char:EOLhyphen"/>fore I was, and nothing changed from that, I followed the worſt, for my ſicke will doth yet beare rule, and my moſt ſoule and ſtinking ſoule that is filled every where with horrible ſores that doth proceed only from it ſelfe, doeth ſtill perſevere in the old evills. I am often angry with my ſelfe, be<g ref="char:EOLhyphen"/>cauſe I am weary to live, when I am not weary to ſinne; I know my folly, and am confounded, and being con<g ref="char:EOLhyphen"/>founded I reproove my ſelfe ſaying; O carnall lover, why doeſt thou ſo long walke in the mire of concupi<g ref="char:EOLhyphen"/>ſence? why art thou ſo carefully buſie for earthly things, and doeſt ſo ear<g ref="char:EOLhyphen"/>neſtly deſire thoſe goods that ſhall
+<pb n="42" facs="tcp:169930:25"/>
+periſh? or by what reaſon calleſt thou them goods which thou gaineſt with ſo much labour, and the great hurt of thy ſoule, and being gayned poſſeſſeſt in feare, and being poſſeſſed loſeſt with griefe and ſorrow? O my ſoule! why doſt thou forget thy own proper eſtate and nobility, and art not aſhamed to endure a miſerable and ſhamefull bondage under the corruption of thy corporall ſence? why art thou deceived with the un<g ref="char:EOLhyphen"/>faithfull promiſes of the world? the chiefeſt good whereof is a miſt, or va<g ref="char:EOLhyphen"/>pour, that appeareth but a little ſea<g ref="char:EOLhyphen"/>ſon, and vaniſheth as vanity of vani<g ref="char:EOLhyphen"/>ties: Bluſh, and be aſhamed, O mi<g ref="char:EOLhyphen"/>ſerable ſinner; how often haſt thou departed from thy Creator, and turn<g ref="char:EOLhyphen"/>ed to deceitfull creatures? and com<g ref="char:EOLhyphen"/>ming againe to thy ſelfe, behold with the ſight of thy minde, how cruelly thy ſoule hath bowelled her ſelfe of
+<pb n="43" facs="tcp:169930:25"/>
+her owne bowells, whileſt with an inordinate deſire catching at a vile prize of Flies, ſhe hath like the Spider made nets for her owne ſelfe, of her owne bowels: againe, and againe, I ſay, bluſh at that where thou haſt had no fruite, and lament thy loſt time, and yeeld thy ſoule unto God: with theſe ſpeeches I rayle againſt my ſelf, when being inwardly admoniſhed, I enter into my ſelfe, and conſider with my heart, what I have loſt, and what I have found: and I finde that I doe not that good which I like, but the e<g ref="char:EOLhyphen"/>vill that I will that I doe; for my E<g ref="char:EOLhyphen"/>nemies hold my will and doe keepe me, (being faſhioned according to the former deſires of ignorance) captive under the law of ſinne: but thou, O Lord of vertues, and the tower of my ſtrength, doe not withdraw thy help from me; looke, Lord, unto my de<g ref="char:EOLhyphen"/>fence, and protect mee under thy
+<pb n="44" facs="tcp:169930:26"/>
+wings, left I fall in the ſight of my adverſaries, and my enemies rejoy<g ref="char:EOLhyphen"/>cing againſt me ſay, I have prevayled againſt him: Breake the bonds of my reproach under which I have beene made crooked; and looſe the cords of my ſinnes wherewith I am ſtrong<g ref="char:EOLhyphen"/>ly bound, O moſt mighty Lord, and make knowne thy power to thy ene<g ref="char:EOLhyphen"/>mies, that I may offer unto thee a ſa<g ref="char:EOLhyphen"/>crifice of gladneſſe, ſaying, who ſhall ſpeake to the power of the Lord, or what ſhall declare his prayſes, that delivereth my ſoule from death, and my feet from ſliding? who hath ſaved me from the Lions mouth, and from the devouring Dragon. To whom ſhall I flie but to thee, O Lord, upon whom all our Fathers have called, and have beene ſaved? to thee I ſay, who never deceiveſt them that truſt in thee, and let any mans hand be againſt me, for I will feare no evill, becauſe
+<pb n="45" facs="tcp:169930:26"/>
+thou art with me: O Lord, all my deſires are before thee, blot out, and put away whatſoever is diſpleaſing unto thee; renew, create, and con<g ref="char:EOLhyphen"/>firme whatſoever thou haſt given me; that caſting away all carnall and un<g ref="char:EOLhyphen"/>profitable deſires, the ſinner may bee accepted in the deſires of his heart, and coveting to enjoy thee the onely treaſure, my requeſt may come before thy face, and I may bee confident to ſay unto thee, Grant unto mee, O God, the deſire of my ſoule; for I know, and am aſſured, that no man can deſire thee but by thy ſelfe, nor come to thee unleſſe thou draw him: draw me therfore, O Lord, and grant unto mee that I may begin in a good deſire, that I may end and perfect it in a good worke, before my old cu<g ref="char:EOLhyphen"/>ſtome oppreſſe my new deſires, and my former will ſtrengthned by age, conquer my new will: cloth me ther<g ref="char:EOLhyphen"/>fore,
+<pb n="46" facs="tcp:169930:27"/>
+O Lord, I humbly beſeech thee, in the precious garment of thy ſalva<g ref="char:EOLhyphen"/>tion, and put off the vile clothing of my wicked life, wherein being depri<g ref="char:EOLhyphen"/>ved of thee, I walke according to the ancient converſation of the old man, but being newly clothed in thee, and become a new man, I may with a new ſpirit ſerve thee in a new life, and in the ſweet ſmell of thy oynt<g ref="char:EOLhyphen"/>ments running unto thee I may re<g ref="char:EOLhyphen"/>joice in Jeſus my Saviour.</p>
+               </div>
+               <div n="8" type="chapter">
+                  <head>
+                     <hi>CHAP.</hi> VIII.</head>
+                  <p>O Lord Jeſus Chriſt, the ſonne of the living God, who with thy hands ſtretched forth on the Croſſe, haſt drunke the cup of thy Paſſion for the redemption of all mankind, ſuc<g ref="char:EOLhyphen"/>cour mee this day, I beſeech thee; be<g ref="char:EOLhyphen"/>hold, O Lord, I that am needy, doe
+<pb n="47" facs="tcp:169930:27"/>
+come to thee that art wealthy: I that am full of miſery do approach to thee repleniſhed with mercy; ſuffer mee not therefore to depart voyd, or as one worthy to be deſpiſed; I begin hungry, let me not end empty, I ap<g ref="char:EOLhyphen"/>proach as one hunger ſtarved, let mee nor depart unfed, and if I ſigh before I eat, grant that I may eat at leaſt af<g ref="char:EOLhyphen"/>ter I have ſighed; firſt therefore, O bleſſed Saviour, I confeſſe againſt my ſelfe mine iniquity; behold, O Lord, for that I was conceived and born in ſinne, and thou haſt waſhed and ſan<g ref="char:EOLhyphen"/>ctified me from the ſame, and I after this have defiled my ſelfe with great<g ref="char:EOLhyphen"/>er offences, becauſe thoſe ſins wherin I was borne, were of neceſſity; but thoſe in which I afterward lay wal<g ref="char:EOLhyphen"/>lowing were voluntary: this not<g ref="char:EOLhyphen"/>withſtanding, thou not being un<g ref="char:EOLhyphen"/>mindfull of thy mercy and goodneſs, haſt drawne me from wickednes, and
+<pb n="48" facs="tcp:169930:28"/>
+from the fellowſhip of ſinners, inſpi<g ref="char:EOLhyphen"/>ring mee with thy grace to follow thee in the company of thoſe that ſeeke thy face, who walke the direct way that leadeth to felicity: but I ungratefull and forgetfull of ſo many benefits received, have after my en<g ref="char:EOLhyphen"/>trance into a Religious way, commit<g ref="char:EOLhyphen"/>ted many ſinnes and abominations, and where I ought to have amended my faults, and to have repented for them, in ſtead therof I have added ſin upon ſin: theſe, O Lord, are the faults by which I have diſhonored thee, and defiled my ſelfe; to wit, Pride, Pre<g ref="char:EOLhyphen"/>ſumption, Vain-glory, and Hypocri<g ref="char:EOLhyphen"/>ſie, and many other ſinnes almoſt infi<g ref="char:EOLhyphen"/>nite, by which my unhappy ſoule is troubled and afflicted, rent, and de<g ref="char:EOLhyphen"/>ſtroyed: Behold, O Lord, mine ini<g ref="char:EOLhyphen"/>quities have overwhelmed my head, being unto me a grievous burthen un<g ref="char:EOLhyphen"/>ſupportable to be endured, inſomuch
+<pb n="49" facs="tcp:169930:28"/>
+as if thou (whoſe property is to par<g ref="char:EOLhyphen"/>don and to ſhew mercy) doe not lift mee up with the right hand of thy mercy, I ſhall wofully ſink down in<g ref="char:EOLhyphen"/>to the gulph of eternall miſery: be<g ref="char:EOLhyphen"/>hold, O Lord God, and ſee how my ghoſtly enemy doth inſult over mee, ſaying, God hath forſaken him; I will purſue and take him, becauſe there is none that can deliver him: how long, O Lord, wilt thou thus leave me? turn back, and deliver my ſoul, O ſave me for thy mercy ſake: take pitty of me thy ſon whom thou haſt begotten in the great grief of thy paſſion, and doe not ſo looke to my wickedneſſe, that thou forget thy goodneſſe: what Father is there that ſeeing his ſon in danger, doth not en<g ref="char:EOLhyphen"/>deavour to ſet him free? or what ſon is there whom his Father doth refuſe to correct with the ſtaffe of his pitty? wherefore, O Lord, and Father, al<g ref="char:EOLhyphen"/>beit
+<pb n="50" facs="tcp:169930:29"/>
+I am a ſinner, yet I doe not ceaſe to be thy Son, becauſe thou haſt made me, and new made me again; like as I have ſinned, ſo correct mee and a<g ref="char:EOLhyphen"/>mend me, commit me to the care and cuſtody of thy only begotten Son Je<g ref="char:EOLhyphen"/>ſus Chriſt our Lord: Is it poſſible for a woman to forget the childe of her own wombe? and albeit ſhe ſhould forget it, yet thou, O moſt mercifull Father, haſt promiſed not to forget the ſame: Behold I cry, and thou doſt not heare mee; I am afflicted with griefe, and thou doſt not comfort me; what ſhall I doe or ſay, being in this extream miſery? alas, I am altoge<g ref="char:EOLhyphen"/>ther comfortleſs, and which is worſe, am chaſed from thy preſence: wretch that I am, from how great good into how great evill am I fallen? whither did I attempt to go? and whither am I come? where am I? and where am I not? how is it that I that did ſigh
+<pb n="51" facs="tcp:169930:29"/>
+after Heaven, do now ſigh through ſo great tribulation? I have ſought com<g ref="char:EOLhyphen"/>fort, and have found affliction, and truly it is better for me not to be, then to be without thee, O ſweet Saviour, It is better not to live, then to live without thee, the onely true life; where are now, O Lord Jeſu, thine accuſtomed mercies? wilt thou bee diſpleaſed with me alwaies? be ap<g ref="char:EOLhyphen"/>peaſed, I beſeech thee, and take pitty of me, and turne not away thy loving face from me, who to redeeme mee, haſt not turned away thy face from thoſe that did mocke, and ſpit upon thee: I confeſſe that I have ſinned, and my conſcience doth adjudge mee worthy of damnation, neither is my repentance ſufficient to make ſatisfa<g ref="char:EOLhyphen"/>ction, nevertheleſs it is a thing infal<g ref="char:EOLhyphen"/>lible, that thy mercy doth ſurmount all offences whatſoever, be it never ſo abhominable: wherefore, O moſt
+<pb n="52" facs="tcp:169930:30"/>
+mercifull Lord, I beſeech thee enter not into judgement with thy ſervant, but according to the multitude of thy mercies blot out mine iniquities: wo be to me at the day of judgement, when the Bookes of our Conſciences ſhall be opened, wherein our actions are regiſtred, when of mee it ſhall be openly proclaimed; ſee here the man and his deeds committed; what ſhal I do, O Lord my God, at that dread<g ref="char:EOLhyphen"/>full day when the Heavens ſhal reveal my iniquities, and the earth ſhal bear witneſſe againſt me? verily I ſhalbe mute, and able to ſay nothing, but holding downe my head through ſhame and confuſion, I ſhall ſtand be<g ref="char:EOLhyphen"/>fore thee ſhaking and bluſhing; alas! what ſhall I ſay? I will call and cry unto thee, O Lord my God, why am I conſumed being ſilent? nevertheleſs if I ſpeake, my griefe will not ceaſe; and if I hold, I ſhall inwardly be tor<g ref="char:EOLhyphen"/>mented
+<pb n="53" facs="tcp:169930:30"/>
+with unſpeakable bitterneſs: weep, O my ſoule, and make lamen<g ref="char:EOLhyphen"/>tation, as a yong married woman for the death of her new married hus<g ref="char:EOLhyphen"/>band; weep, and bewaile thy miſery for that thy Bridegroome (which is Chriſt) hath forſaken thee: O anger of the Almighty ruſh not upon mee, becauſe thou canſt not be contained in me; verily there is nothing in me that is able to contain thee; take pitty of me, leſt I deſpaire of thy mercy, that by deſpairing of my ſelfe, I may finde comfort in thee; and albeit I have done that for which thou mayeſt juſt<g ref="char:EOLhyphen"/>ly condemne me, yet thou haſt not loſt thy accuſtomed property of ſhe<g ref="char:EOLhyphen"/>wing mercy and pitty: thou, O Lord, doſt not deſire the death of ſinners, neither doſt thou take pleaſure in the perdition of thoſe that die; nay ra<g ref="char:EOLhyphen"/>ther that thoſe that were dead might live: Thou thy ſelfe haſt died, and
+<pb n="54" facs="tcp:169930:31"/>
+thy death hath been the death of that death that was due to ſinners: and if thou dying, they have lived, grant, O Lord, I beſeech thee, that thou living, I may not die; let thy heavenly hand help mee, and deliver mee from the hands of thoſe that hate me, leſt they inſult and rejoyce over me, ſaying, we have devoured him: How is it poſſi<g ref="char:EOLhyphen"/>ble, O bleſſed Saviour, that ever any one can deſpaire of thy mercy, who when wee were thy enemies haſt re<g ref="char:EOLhyphen"/>deemed us with thy moſt precious bloud, and reconciled us to God? Behold, O Lord, (protected with the ſhaddow of thy mercy) I run (crav<g ref="char:EOLhyphen"/>ing pardon) to the throne of thy glo<g ref="char:EOLhyphen"/>ry, calling, and knocking untill thou take pitty on mee; for if thou haſt called as to pardon, even when wee did not ſeek it, by how much more ſhall we obtaine pardon if we ask it? remember not thy juſtice, O bleſſed
+<pb n="55" facs="tcp:169930:31"/>
+Saviour, towards mee thy creature; remember not thine anger towards mee guilty, but bee mindfull of thy mercy towards me in miſery: forget my Pride, provoking thee to diſplea<g ref="char:EOLhyphen"/>ſure, and weigh my wretchedneſs im<g ref="char:EOLhyphen"/>ploring thy favour; for what doth thy ſacred Name Jeſus ſignifie but on<g ref="char:EOLhyphen"/>ly a Saviour? wherefore, O Saviour Jeſu, be thou my ſuccour, and pro<g ref="char:EOLhyphen"/>tection, and ſay unto my ſoule, I am thy ſalvation: I doe preſume very much of thy divine bounty, becauſe thou thy ſelfe doſt teach us to aske, ſeeke, and knocke at the doore of thy mercy; wherefore I doe aske, ſeeke, and knock at thy doore, as by thy word thou haſt commanded mee to do: thou therefore that willeſt me to aske, grant that I may receive; thou that doſt bid me ſeek, grant me like<g ref="char:EOLhyphen"/>wiſe to find; thou that doſt teach me to knock, open unto mee knocking at
+<pb n="56" facs="tcp:169930:32"/>
+the doore of thy mercy: recover me being diſeaſed, repair me being craz<g ref="char:EOLhyphen"/>ed, raiſe mee being dead; vouchſafe likewiſe ſo to direct and governe all my ſences, thoughts, and actions in that which is pleaſing unto thee, that I may from henceforth faithfully ſerv thee, and that I may live, and give my ſelfe wholely unto thee: I know, O Lord, that by reaſon thou haſt made me, I do owe my ſelfe unto thee; and by reaſon thou haſt redeemed me, and haſt been made man for me, I do owe (if I had it to give thee) much more then my ſelf unto thee, by how much greater then mee, thou art; who haſt given thy ſelf for me: I have nothing elſe to give thee; neither can I give thee this without thee: take mee therefore, and draw mee unto thee, that I m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y be thine by immitation, and affection, like as I am by conditi<g ref="char:EOLhyphen"/>on, and creation.</p>
+               </div>
+               <div n="9" type="chapter">
+                  <pb n="57" facs="tcp:169930:32"/>
+                  <head>
+                     <hi>CHAP.</hi> IX.</head>
+                  <p>TAke pity, O Lord, take pity, O mercifull Saviour of mee a moſt miſerable ſinner, doing things wor<g ref="char:EOLhyphen"/>thy of blame, and worthily ſuffering for the ſame, being by thee daily affli<g ref="char:EOLhyphen"/>cted, for that continually I am found to offend: if I ponder the evill which I daily commit, that which I endure is nothing in compariſon of it; that which I have done, being much more grievous then my affliction: thou art juſt, O Lord, and right is thy judge<g ref="char:EOLhyphen"/>ment: all thy judgements are juſt and true: thou, O Lord our God, art juſt and full of goodneſs, neyther is there in thee any wickedneſs: becauſe when we doe offend, thou doeſt not unjuſtly and cruelly afflict us, who when wee were not, haſt powerfully<pb n="58" facs="tcp:169930:33"/>
+made us; and when for our ſins wee were guilty of damnation, thou haſt by thy wonderfull mercy and good<g ref="char:EOLhyphen"/>neſs, ſet us in a ſtate of ſalvation: I know, O Lord God, and am aſſured, that our life is not governed by the unadviſed Influence and concurrence of ſecondary cauſes, but is wholly di<g ref="char:EOLhyphen"/>ſpoſed and ordered by thy Almighty providence; wherfore I humbly pray and beſeech thee, that thou wilt not deale with me according to mine ini<g ref="char:EOLhyphen"/>quities, by which I have deſerved thy anger, but according to thy manifold mercies, which ſurmount the ſinnes of the whole world, take pity on me: thou, O Lord, who doeſt puniſh mee outwardly, give mee alwayes an in<g ref="char:EOLhyphen"/>vincible, patience inwardly, to the end I may never ceaſe to prayſe thee: take pity of me, O Lord, take pity of me, and helpe me, like as thou know<g ref="char:EOLhyphen"/>eſt to bee expedient for mee both in
+<pb n="59" facs="tcp:169930:33"/>
+ſoule and in body, thou who knoweſt all things, and art able to do all things whatſoever it pleaſeth thee.</p>
+               </div>
+               <div n="10" type="chapter">
+                  <head>
+                     <hi>CHAP.</hi> X.</head>
+                  <p>O God moſt powerfull and po<g ref="char:EOLhyphen"/>tent over the ſpirits or ſoules of all fleſh, whoſe eyes behold all the wayes of the children of Adam, from the day of their birth, unto the day of their death; to the end thou mayſt render to every man according to his actions, be they good or evill: Teach mee, I beſeech thee, how to confeſſe unto thee my poverty, becauſe I have heeretofore vanted that I was rich, and need nothing, not knowing that I was poore, blind, naked, wretched, and in miſery, for that I thought my ſelfe to bee ſomething, when I was nothing; I ſayd with my ſelfe, I ſhall
+<pb n="60" facs="tcp:169930:34"/>
+become a wiſe man, and I became a foole; I thought my ſelfe to bee pru<g ref="char:EOLhyphen"/>dent and diſcreet, and I was decei<g ref="char:EOLhyphen"/>ved, for that I now perceive that it is a gift gratis by thee given, without whom wee can do nothing; thus, O Lord, by leaving me, and proving me, thou haſt taught me to know my ſelf, not to reſpect of ti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, that thou mightſt know me, but in reſpect of mee, that I might know my ſelfe, becauſe I thought my ſelfe to bee ſomething of my ſelfe, and ſufficient of my ſelfe; neither did I perceive that it was thou that diddeſt governe me, untill thou didſt for a while for<g ref="char:EOLhyphen"/>ſake me; whereupon I forthwith fell, by which I did ſee and know, that it was thou that didſt governe me, and that my fall hapned through my own fault, and my <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ing to grace, by means only of thy grace.</p>
+                  <p>Thou haſt opened mine eyes, O di<g ref="char:EOLhyphen"/>vine
+<pb n="61" facs="tcp:169930:34"/>
+light, thou haſt awakened and inlightned me, ſo that now I ſee that mans life is a temptation upon earth; neither hath frayle fleſh, or any mor<g ref="char:EOLhyphen"/>tall man living, juſt occaſion to glory of himſelfe before thee, or to preſume of his juſtification, ſince all the good we have, be it little or great, procee<g ref="char:EOLhyphen"/>deth wholly and freely from thee; neyther can wee attribute any thing juſtly to our ſelves, ſaving only our iniquity.</p>
+                  <p>Whereof then ſhall any mortall man glory? ſhall he glory of his ini<g ref="char:EOLhyphen"/>quity? this is not glory, but meere miſery: ſhall hee therefore glory of his goodneſſe? ſhall he glory of that which is anothers? Becauſe all good<g ref="char:EOLhyphen"/>neſs and glory is thine, O Lord, and belongeth unto thee; he therfore that uſurpeth that glory to himſelfe that is due to thee, is a theefe, and a rob<g ref="char:EOLhyphen"/>ber, and like unto the Divell, who
+<pb n="62" facs="tcp:169930:35"/>
+deſired to bereave thee of thy glory; for hee that deſireth to bee prayſed in reſpect of the gift which thou haſt given him, and doeth not ſeeke thy glory therein, but his owne, albeit in reſpect of thy gift hee bee prayſed of men, yet by thee bee is thought wor<g ref="char:EOLhyphen"/>thy of blame, for that with that gift which thou haſt given him, hee hath not ſought thy glory, but his owne; but hee that is prayſed of men, being by thee thought worthy of blame, will not bee defended by men when thou ſhalt condemne him.</p>
+                  <p>Thou therefore, O Lord, who didſt forme me in my mothers womb, per<g ref="char:EOLhyphen"/>mit me not to fall into that reproach<g ref="char:EOLhyphen"/>full infamy, as to be upbrayded as one that would bereave thee of thy glo<g ref="char:EOLhyphen"/>ry, who art the authour of all good<g ref="char:EOLhyphen"/>neſſe, and to thee is due all glory, but to us ſhame and miſery, who accord<g ref="char:EOLhyphen"/>ing to our deſerts, are worthy of all
+<pb n="63" facs="tcp:169930:35"/>
+wretchedneſs, were it not that thou doſt take pity upon us: Thou, O Lord, art pitifull indeed, full of compaſſion towards all men, and hating nothing of thoſe things which thou haſt made beſtowing on us many benefits, &amp; in<g ref="char:EOLhyphen"/>riching us with thy greateſt gifts, be<g ref="char:EOLhyphen"/>cauſe thou doeſt favour thoſe that are friendleſs, making them abound with the riches of thy goodnes.</p>
+                  <p>I know, O Lord, and confeſſe that they onely that acknowledge them<g ref="char:EOLhyphen"/>ſelves to be poor and needy, and con<g ref="char:EOLhyphen"/>feſſe unto thee their poverty, ſhalbe inriched by thee; inſomuch that they that imagine themſelves rich (being indeed poore and needy) are not to expect any ſpirituall gift or grace from thee: wherefore, O Lord my God, I doe acknowledge and confeſs unto thee my poverty, rendring un<g ref="char:EOLhyphen"/>to thee all glory, becauſe all the good that is done by me, proceedeth who<g ref="char:EOLhyphen"/>ly from thee.</p>
+                  <p>
+                     <pb n="64" facs="tcp:169930:36"/>I confeſſe, O Lord, that I am no<g ref="char:EOLhyphen"/>thing elſe but meere vanity, the ſha<g ref="char:EOLhyphen"/>dow of death, a darke bottomles dun<g ref="char:EOLhyphen"/>geon, a voyd and unprofitable plot of ground, bringing forth nothing with<g ref="char:EOLhyphen"/>out thy bleſſing, the naturall fruite thereof being confuſion, ſinne, and e<g ref="char:EOLhyphen"/>ternall death and damnation: all the good that ever I had before, I had it from thee, is wholly thine, and pro<g ref="char:EOLhyphen"/>ceeds from the hands of thy libera<g ref="char:EOLhyphen"/>lity.</p>
+                  <p>When I have ſtood upright, it hath beene by thy aſſiſtance; when I have fallen, it hath beene through my own negligence: when I was fallen like<g ref="char:EOLhyphen"/>wiſe, I ſhould for ever have remayn<g ref="char:EOLhyphen"/>ed in miſery, if thou hadſt not rayſed me: and being blinde, I ſhould for e<g ref="char:EOLhyphen"/>ver have been blind, if thou hadſt not inlightned me: when I was fallen, I ſhould never have riſen, if thou hadſt not with thy hand raiſed me: yea af<g ref="char:EOLhyphen"/>ter
+<pb n="65" facs="tcp:169930:36"/>
+thou hadſt rayſed mee, I ſhould have fallen immediately, if thou hadſt not upheld mee; I ſhould likewiſe have periſhed many times, and beene utterly undone, if thou hadſt not go<g ref="char:EOLhyphen"/>verned me.</p>
+                  <p>Thus, O Lord, and in this manner hath thy grace and mercy prevented me from time to time, and continual<g ref="char:EOLhyphen"/>ly delivering mee from all miſhaps that might have befallen me, preſer<g ref="char:EOLhyphen"/>ving me from perills that are paſt, de<g ref="char:EOLhyphen"/>livering me out of thoſe that are pre<g ref="char:EOLhyphen"/>ſent, and ſtrengthening mee againſt thoſe that are to come, cutting in ſun<g ref="char:EOLhyphen"/>der before me the ſnares of ſinne, re<g ref="char:EOLhyphen"/>moving likewiſe all cauſes and occa<g ref="char:EOLhyphen"/>ſions of the ſame; for if thou haddeſt not afforded me this favour, I ſhould have committed all ſorts of ſins what ſoever: becauſe I know, O Lord, that there is no ſinne committed by one man, which another could not like<g ref="char:EOLhyphen"/>wiſe
+<pb n="66" facs="tcp:169930:37"/>
+doe the ſame, if mans Creatour by whom he was made, doe not aſſiſt him.</p>
+                  <p>Thou therefore haſt cauſed, and commanded me to abſtaine from ini<g ref="char:EOLhyphen"/>quity, giving mee grace that I might beleeve in thee: for thou, O Lord, didſt direct me to do that which was to thy glory and my owne ſalvation; giving mee grace and underſtanding, that I might avoyde many grievous ſins that I was inclinable to.</p>
+               </div>
+               <div n="11" type="chapter">
+                  <head>
+                     <hi>CHAP.</hi> XI.</head>
+                  <p>REmember, O Lord I beſeech thee thy mercies ſhewed towards me of old time, through which thou haſt prevented mee with the bleſſings of thy ſweetneſſe, even from the begin<g ref="char:EOLhyphen"/>nings for thou, O Lord, and my hope, from the very time that I was a ſuck<g ref="char:EOLhyphen"/>ling,
+<pb n="67" facs="tcp:169930:37"/>
+(yea before I was borne) haſt provided and prepared the waies that I ſhould walk in, and by them attain to the glory of thy heavenly King<g ref="char:EOLhyphen"/>dome: thou haſt knowne mee before thou didſt forme mee in my mothers belly; and before I iſſued out of my mothers wombe, thou haſt preordai<g ref="char:EOLhyphen"/>ned of mee whatſoever ſeemed good to thy divine pleaſure.</p>
+                  <p>I know not, O Lord, what things are written of me in thy Booke, in the ſecret of thy Conſiſtory, which make me to feare exceedingly: but thou knoweſt them all particularly, be<g ref="char:EOLhyphen"/>cauſe that which I expect by ſucceſſi<g ref="char:EOLhyphen"/>on of dayes and times, a thouſand yeeres hence to bee fulfilled, in the ſight of thy Eternity is already ac<g ref="char:EOLhyphen"/>compliſhed, and that which is to come is already done: but I, for that I know not theſe things, (living heer in a darke and obſcure night) cannot
+<pb n="68" facs="tcp:169930:38"/>
+but feare and tremble, whileſt I ſee ſundry dangers on every ſide aſſault<g ref="char:EOLhyphen"/>ing me, troupes of enemies purſuing me, and infinite miſeries of this life invironing me. And were it not that the ayd of thy grace doth ſuccour me in theſe my manifold tribulations, I ſhould ſoon fall into deſperation; but I have a great hope and confidence, O my God in thee, who art a God of unſpeakable mercy and pity: and the conſideration of thy infinite mercies are no ſmall comfort unto mee in my miſeries.</p>
+                  <p>The former tokens likewiſe of thy love and mercies ſhewed towards me before my nativity, but appearing now eſpecially, doe put mee in hope for the time to come, to receive more ample and greater favours, from the hands of thy bountifull liberality, which thou doeſt reſerve for thy friends, and thoſe that love thee to
+<pb n="69" facs="tcp:169930:38"/>
+the end, that my hope may rejoice in thee, O Lord my God, with a ſacred and lively cheerefulneſſe, with which thou doeſt continually comfort my old diſconſolate years.</p>
+               </div>
+               <div n="12" type="chapter">
+                  <head>
+                     <hi>CHAP.</hi> XII.</head>
+                  <p>O God of Gods! O Lord in mer<g ref="char:EOLhyphen"/>cy ſurmounting the malice of men; I know thou wilt not alwaies be ſilent: then I meane when a fla<g ref="char:EOLhyphen"/>ming fire ſhall burne before thee, and a terrible tempeſt ſhall ſhowre down round about thee, when thou ſhalt call both Heaven and earth to judge and diſcerne thy people; and lo, in the preſence of ſo many millions of people, all mine iniquities ſhall be re<g ref="char:EOLhyphen"/>vealed, before ſo many troops of An<g ref="char:EOLhyphen"/>gels all my abominations ſhall be diſ<g ref="char:EOLhyphen"/>played; not only of my actions, but
+<pb n="70" facs="tcp:169930:39"/>
+likewiſe of my words, and cogitati<g ref="char:EOLhyphen"/>ons; there ſhall I (poore wretch) ſtand to be judged by ſo many as have gone before me in doing good: I ſhall by ſo many accuſers be thought worthy of Hell, as have given mee example to live well: I ſhall be con<g ref="char:EOLhyphen"/>vinced by ſo many witneſſes, as have admoniſhed me by their wholſome ſpeeches, and by their godly &amp; pious converſation, have carried themſelves worthy of imitation: O my Lord! I know not what to ſay, I know not what to anſwer: and albeit I am as yet free from that terrible danger, nevertheleſſe my conſcience doth af<g ref="char:EOLhyphen"/>flict me, the hidden ſecrets of my heart do torment mee, coveteouſneſſe doth preſſe me, pride doth accuſe me, envy doeth conſume mee, concupiſcenſe doeth enflame me, luſt doeth moleſt me, gluttony doth diſgrace me, drun<g ref="char:EOLhyphen"/>kenneſſe doth convince me, detracti<g ref="char:EOLhyphen"/>on
+<pb n="71" facs="tcp:169930:39"/>
+doth rent me, anger doth diſturbe me: behold, O my deliverer, who haſt delivered me out of the hands of cruell people; behold with whom I have lived from the day of my birth, with whom I have ſtudied, and with whom I have kept promiſe: thoſe very ſtudies which heertofore I affe<g ref="char:EOLhyphen"/>cted, doe condemne mee, which in times paſt I prayſed do now diſpraiſe me. Theſe are the friends to whom I have aſſented; the teachers whom I have obeyed; the maſters whom I have ſerved; the counſellours whom I have beleeved, and the familiar ac<g ref="char:EOLhyphen"/>quaintance to whom I have conſen<g ref="char:EOLhyphen"/>ted</p>
+                  <p>Woe is me, O my God, for that my abode heere is prolonged, woe is me, O my light, for that I have lived with thoſe that live in darkneſs: and ſeeing holy David ſayd ſo much, how much more may I bee able to ſay?
+<pb n="72" facs="tcp:169930:40"/>
+my ſoule hath dwelt too long in a ſtrange land? O my God, my force &amp; my fortreſs, no man can be juſtified in thy ſight, my hope is not in the ſons of men. Whom wouldeſt thou finde juſtified, if thou ſhouldeſt judge ſe<g ref="char:EOLhyphen"/>verely, ſetting mercy aſide? neither is there any thing whereof a juſt man may vaunt, or which can bring him to glory, unleſſe thou prevent him before hand with thy mercy, and pit<g ref="char:EOLhyphen"/>ty: I therefore, O my Saviour, be<g ref="char:EOLhyphen"/>lieve what I have heard, that it is thy goodneſſe that doth draw mee to re<g ref="char:EOLhyphen"/>pentance, thy holy lips have told it me: No man can come to me, unleſs my Father, who hath ſent me, draw him. Seeing therefore it hath pleaſed thee to inſtruct me, and by inſtruction haſt vouchſafed mercifully to informe me; I beſeech thee, with all the for<g ref="char:EOLhyphen"/>ces of my heart and mind, O Almigh<g ref="char:EOLhyphen"/>ty Father, together with thy moſt be<g ref="char:EOLhyphen"/>loved
+<pb n="73" facs="tcp:169930:40"/>
+Son, I beſeech thee likewiſe, O moſt bleſſed Saviour, with the holy and bleſſed Spirit, vouchſafe to draw me unto thee, that I may run after thee, and forſaking all things tranſi<g ref="char:EOLhyphen"/>tory, I may only adhere unto thee, and devote my ſoule and body only to thy ſervice.</p>
+                  <p>Who is like unto thee, O Lord my God? thou art great in ſanctity, ter<g ref="char:EOLhyphen"/>rible, and worthy to be praiſed, do<g ref="char:EOLhyphen"/>ing things that deſerve to be admired; too too late have I knowne thee, O true light, too late have I known thee, and the cauſe was, for that there was a great and dark cloud before my eies, that delighted in vanity, which hin<g ref="char:EOLhyphen"/>dered me from beholding the Sun of juſtice, and the Light of all verity: I was wrapt in darkneſſe, being the child of darkneſs, &amp; I loved darkneſs, becauſe I knew not the light; I was blind and loved blindneſs, and walk<g ref="char:EOLhyphen"/>ed
+<pb n="74" facs="tcp:169930:41"/>
+through one darknes into another: who hath delivered me from thence, where I remained as a blind man, ſit<g ref="char:EOLhyphen"/>ting in darkneſſe and in the ſhaddow of death? who hath taken me by the hand, and led met forth of the ſame? who is he that hath thus enlightened me? I ſought him not, and he called me: but who is he? thou art he. O Lord my God, being moſt mercifull, and pittifull, yea, the father of mer<g ref="char:EOLhyphen"/>cies, and God of all comfort.</p>
+                  <p>Thou, O Lord my God moſt holy, art he that hath done the ſame, whom I confeſſe with my whole heart, ren<g ref="char:EOLhyphen"/>dring thanks to thy holy Name: I did not ſeeke thee, thou haſt ſought me; I did not call upon thee, thou haſt called me.</p>
+                  <p>Thou haſt thundred from Heaven with a great voyce into the internall care of my heart, ſaying, let light be made; and light was made: where<g ref="char:EOLhyphen"/>upon
+<pb n="75" facs="tcp:169930:41"/>
+that great and dark cloud, which had covered my eies, departed, and was diſſolved, whereby I have ſeene thy light, and known thy voyce, &amp; I ſaid, truly, O Lord, thou art my God, who haſt delivered mee out of dark<g ref="char:EOLhyphen"/>neſs, and from the ſhaddow of death, calling mee into the admirable light, ſo that now I ſee, thankes be to thee, O Lord, who haſt inlightened me: and I looked backe, and beheld the darkneſſe wherein I had lived, and the deepe darke dungeon, wherein I had remained, which made me with feare and trembling, to cry out, ſay<g ref="char:EOLhyphen"/>ing, wo is mee in reſpect of the dark<g ref="char:EOLhyphen"/>neſſe in which I have remained; wo is mee in reſpect of my former blind<g ref="char:EOLhyphen"/>neſs, in which I could not ſee the light of Heaven; wo is mee in reſpect of my former ignorance, when I did not know thee, O Lord; thanks therefore be to thee, O my Inlightner, and De<g ref="char:EOLhyphen"/>liverer,
+<pb n="76" facs="tcp:169930:42"/>
+for that thou haſt inlightned me, and I have knowne thee.</p>
+                  <p>Too too late have I knowne thee, O ancient Verity, too late have I known thee, O eternall Truth: thou remaineſt in light, and I in darkneſſe, and I knew thee not, becauſe I could not be inlightned without thee, for that there is no light beſides thee.</p>
+                  <p>O God! the Holy of Holies, the God of Gods, and Lord of Lords, of ineſtimable Majeſty, whoſe wonder<g ref="char:EOLhyphen"/>full greatneſſe cannot bee uttered or imagined! before whom the Ange<g ref="char:EOLhyphen"/>licall powers doe ſhake for feare, O moſt mighty, moſt holy, and moſt po<g ref="char:EOLhyphen"/>werfull God, the God of the ſpirits or ſouls of all mortall creatures, from whoſe ſight the Heavens and the earth doe flie away for fear, to whom all the Elemens doe obey at a becke; let all thy creatures adore and glorifie thee, amongſt whom I, unworthy
+<pb n="77" facs="tcp:169930:42"/>
+wretch the ſonne of thy handmaid do bow downe the neck of my heart un<g ref="char:EOLhyphen"/>der the feet of thy ſupreame Majeſty being taught ſo to doe, by the faith which thou haſt given me, rendring thanks unto thee, for that thou haſt vouchſafed by thy mercy to inlighten me.</p>
+                  <p>O Light moſt true, ſacred, and de<g ref="char:EOLhyphen"/>lightfull, moſt worthy of praiſe, and moſt admirable, which inlighteneth every man comming into this world, yea, the eies of the Angels themſelvs: Behold, now I ſee, for which I hum<g ref="char:EOLhyphen"/>bly thanke thee: Behold, now I ſee the light of Heaven, a heavenly bright beam proceeding from the face of thy brightneſs doth ſhine upon the eies of my mind, which maketh all my bones to rejoyce.</p>
+                  <p>Oh that this light were perfect it me; increaſe it in mee, O authour o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> light I beſeech thee: increaſe I be<g ref="char:EOLhyphen"/>ſeech
+<pb n="78" facs="tcp:169930:43"/>
+thee that light that ſhineth in mee: let it bee augmented, I beſeech thee, by thee.</p>
+                  <p>O fire, which doeſt alwayes burn, and art never extinguiſhed, enflame me. O light, which doeſt alwayes ſhine, and art never darkned, enlight<g ref="char:EOLhyphen"/>en me. Oh that I were made hot by thee, O ſacred fire! how ſweetly doſt thou heate, how ſecretly doeſt thou ſhine, how deſiredly doſt thou burn? Woe be to thoſe, that are not made hot by thee, woe bee to thoſe that are not enlightned by thee. O true light enlightning all the world, whoſe brightneſſe doeth repleniſh all the world. Woe bee to thoſe blind eyes which doe not ſee thee, who art the Sunne that giveth light both to Hea<g ref="char:EOLhyphen"/>ven and Earth. Woe be to thoſe dim eyes which cannot ſee thee. Woe be to thoſe eies that are turned away fro<g ref="char:cmbAbbrStroke">̄</g> ſeeing verity. Woe be to thoſe eyes
+<pb n="79" facs="tcp:169930:43"/>
+that are not turned away from ſeeing vanity.</p>
+                  <p>Verily thoſe eyes that are accuſto<g ref="char:EOLhyphen"/>med to darkneſs, cannot behold the bright beames of thy ſupreame righ<g ref="char:EOLhyphen"/>teouſneſs, neither do they know what to thinke of the light, whoſe dwel<g ref="char:EOLhyphen"/>ling is in darkneſſe. They ſee, love, and approve the darkneſſe, ſo that walking from one darkneſſe into ano<g ref="char:EOLhyphen"/>ther, they ſtumble, and tumble they know not whither. Doubtleſſe they are wretched that know not what they loſe, but they are more wretched that know what they loſe, who fall with their eyes open, and deſcend a<g ref="char:EOLhyphen"/>live into perdition.</p>
+                  <p>O light moſt bleſſed! who canſt not be ſeen of thoſe eyes that are ne<g ref="char:EOLhyphen"/>ver ſo little defiled: Bleſſed are the clean in heart, for they ſhall ſee God. Cleanſe me, O cleanſing vertue, cure mine eyes, to the end that with ſound
+<pb n="80" facs="tcp:169930:44"/>
+and cleare eyes I may bee able to be<g ref="char:EOLhyphen"/>hold thee. Remoove from my eyes the ſcales of my former blindneſſe, by the means of thy brightneſs, that I may be able ſtedfaſtly to behold thee, and in thy light I may ſee light.</p>
+                  <p>Behold O my light! now I ſee, for which I moſt humbly thank thee. Let this my light, O Lord I beſeech thee, be increaſed by thee. Open mine eyes, that I may ſee the wonderfull things of thy Law. I give thee thankes, O my light, for that I now ſee, albeit obſcurely, as it were in a Mirrour or looking glaſſe: but when ſhall I ſee thee apparently face to face?</p>
+                  <p>Oh, when will that day of joy and mirth arive, in which I ſhall enter into the place of thy Tabernacle, ſo mach to bee admired, even into the houſe of my God, to the end I may ſee him face to face that ſeeth me<g ref="char:punc">▪</g> that ſo my deſire may be accompliſhed.</p>
+               </div>
+               <div n="13" type="chapter">
+                  <pb n="81" facs="tcp:169930:44"/>
+                  <head>
+                     <hi>CHAP.</hi> XIII.</head>
+                  <p>I Have exceedingly ſinned, and I know my offences to bee many, which I have committed, yet I do not deſpayre, becauſe where ſinnes have abounded, there grace hath ſupera<g ref="char:EOLhyphen"/>bounded. He that diſpayreth of ob<g ref="char:EOLhyphen"/>tayning pardon for his ſinnes, denieth God to be mercifull; hee doth God a great injury that miſtruſteth his mer<g ref="char:EOLhyphen"/>cy: as much as in him lieth, he denieth God to have charity, truth, and pow<g ref="char:EOLhyphen"/>er, in which three doth depend my whole confidence: that is, in the cha<g ref="char:EOLhyphen"/>rity of his adoption, in the trueth of his promiſe, and in the power of his redemption: I cannot bee terrified with the multitude of my ſinnes<g ref="char:punc">▪</g> if the death of my Saviour come into my minde, becauſe my ſinnes cannot
+<pb n="82" facs="tcp:169930:45"/>
+overcome the multitude of his mercy. The wounds of my Saviour doe tell me that I am truly reconciled to him, if I love him: wherefore, bleſſed Sa<g ref="char:EOLhyphen"/>viour, give me grace to love thee tru<g ref="char:EOLhyphen"/>ly and ſincerely, becauſe love chaſeth forth feare: verily the whole world doth not afford ſuch a powerfull and preſent remedy againſt ſinne, as is the death of my Redeemer. He ſtretcheth forth his armes on the Croſſe, and ſpreads out his hands, as one ready to imbrace ſinners: I purpoſe to live, and deſire to die betweene the armes of Chriſt that hath ſaved me, there will I ſing ſecurely: I will extoll thee, O Lord, for thou haſt received me, and haſt not permitted mine enemies to triumph over me.</p>
+                  <!-- apparently quoting a hymn from Bishop John Cosin's Collection of Private Devotions in the practice of the Ancient Church called the Hours of Prayer (1627): -->
+                  <epigraph>
+                     <q>
+                        <l>Who more can crave</l>
+                        <l>Then God for me hath done?</l>
+                        <pb n="83" facs="tcp:169930:45"/>
+                        <l>To free a ſlave</l>
+                        <l>That gave his only Son.</l>
+                        <l>Bleſt be that houre</l>
+                        <l>When he repair'd my loſſe,</l>
+                        <l>I never will</l>
+                        <l>Forget my Saviours Croſſe:</l>
+                        <l>Whoſe death revives</l>
+                        <l>My ſoule; once was I dead,</l>
+                        <l>But now I'le rayſe</l>
+                        <l>Againe my drooping head,</l>
+                        <l>And ſinging ſay,</l>
+                        <l>And ſaying ſing for ever,</l>
+                        <l>Bleſt be my Lord</l>
+                        <l>That did my ſoule deliver.</l>
+                     </q>
+                  </epigraph>
+               </div>
+               <div n="14" type="chapter">
+                  <head>
+                     <hi>CHAP.</hi> XIV.</head>
+                  <p>I Render unto the moſt humble thanks<g ref="char:punc">▪</g> O moſt gratious and mer<g ref="char:EOLhyphen"/>cifull God, for that comming loader
+<pb n="84" facs="tcp:169930:46"/>
+with ſo many and ſo grievous ſins to make my humble confeſſion unto thy divine and ſacred Majeſty, thou art pleaſed to give mee the grace, that I am not aſhamed to open my ſins and iniquities unto thee, whereby I may obtaine thy pardon; which being granted unto me by thy mercy, and the merits of my Saviour Chriſt Jeſus; I moſt humbly beſeech thee to indue me with thy holy ſpirit, that I may forget all my wicked inclinations, and that I may offend thee no more, but remain conſtant to my good intenti<g ref="char:EOLhyphen"/>ons propoſed at this time: I confeſſe unto thee, O Lord, that it was thy meer mercy and goodneſs, that thou hadſt not cut me off many times be<g ref="char:EOLhyphen"/>fore this in the height of my horrid ſins, and caſt me immediatly into Hell for all eternity: O Lord, thou haſt had mercy upon me, being but poore duſt and aſhes; and thou art pleaſed
+<pb n="85" facs="tcp:169930:46"/>
+at this inſtant to reforme my defor<g ref="char:EOLhyphen"/>mities, and to keep me from ſudden death and deſpaire, leſt I ſhould bee ſwallowed up in the deep: O Lord, I humbly confeſſe, that before thou didſt give me a ſight of my ſinnes, and hearty ſorrow and repentance for them, I was going headlong to Hell, carrying all my ſins along with mee; but thou, O my Lord and my God, didſt call me back unto thee, who art the way, the truth and the life, and didſt inlighten my cloudy mind with the brightneſs of thy light, that ſee<g ref="char:EOLhyphen"/>ing my relf at the brink of Hell, thou haſt pulled mee backe by thy divine mercy and providence, that I may live to ſee thy glory: what ſhall I there<g ref="char:EOLhyphen"/>fore render unto thee, my moſt mer<g ref="char:EOLhyphen"/>cifull Saviour, for the marvellous waies that thou haſt uſed to correct, and direct my waies into the way of ſalvation? I was carried away with
+<pb n="86" facs="tcp:169930:47"/>
+vanities, O my God, and made my waies farre from thee; but thou, O Lord, moved with mercy didſt call back my filthy life from the durt of earthly pleaſures, and didſt reſtraine my untamed minde with the bit and bridle of the calamities, and labour of this wretched world, that I might underſtand my own miſery, and come unto thee: I will therefore glory in my infirmities, and afflictions, that thy grace may dwell in mee, O Lord, to whom I owe all that I am, for that thou haſt forgiven me many heynous, and grievous ſins; and for thoſe great benefits, and moſt holy bleſſings by which my poore ſoule ſhall be ſaved, I doe give unto thee moſt humble thanks upon the knees of my heart, and in gratitude for thy gracious fa<g ref="char:EOLhyphen"/>vours, I doe moſt willingly offer my poor life to be ſacrificed for thee, my liberty, and all my worldly ſubſtance,
+<pb n="87" facs="tcp:169930:47"/>
+and my moſt humble prayers, ſaying, Bleſs the Lord, O my ſoule, and doe not forget all his benefits, who is mercifull to all thine iniquities, and healeth all thine infirmities, who hath redeemed thy life from death, who crowneth thee with loving kind<g ref="char:EOLhyphen"/>neſſes and tender mercies: Behold, O Lord, how I am comforted with thy mercies, and thou haſt ſo inligh<g ref="char:EOLhyphen"/>tened me, that I now deſire to imbrace thee before all the pleaſures which have waited upon my miſerable life: therefore I humbly beſeech thee, O moſt mercifull Father, not to faile in helping me, that I alſo by thy grace may not faile in confeſſing thy mercy unto me; and I deſire thee to accept of my broken and contrite heart, and my ſorrowfull ſoule for my ſins paſt, and grant unto me thy fear, that I may never do any thing to diſpleaſe thee; but conceiving hope by thy promiſes
+<pb n="88" facs="tcp:169930:48"/>
+of thy mercy, I may henceforth bee cheriſhed, and delighted with hea<g ref="char:EOLhyphen"/>venly things: O Lord, protect mee under the ſhaddow of thy wings, and cheriſh me in the boſome of thy mer<g ref="char:EOLhyphen"/>cy; for while I live in this valley of tears, I will cry unto thee, O my God, and my helper in time of trouble, and need, that thou deliver mee from all temptations unto the end; and that thou wilt nouriſh mee as thy childe, who having received the ſtrength of thy vertue ſo long as I ſhall run in the courſe of this world, forgetting that which is behind, and earneſtly bend<g ref="char:EOLhyphen"/>ing my ſelfe to thy holy bleſſings, by thy grace and protection I may goe on to the appointed place that thou haſt prepared for thoſe that love Chriſt Jeſus our Lord, who liveth and reigneth with thee in the unity of the Holy Spirit God world without end. Amen.</p>
+               </div>
+            </div>
+            <div type="devotions">
+               <pb n="89" facs="tcp:169930:48"/>
+               <div type="poem">
+                  <head>A Preparative to Prayer.</head>
+                  <lg>
+                     <l>WHen to thy God thou ſpeak'ſt,</l>
+                     <l>O creature mean,</l>
+                     <l>Lift up pure hands,</l>
+                     <l>lay down all foul deſires;</l>
+                     <l>Fix thoughts on heaven,</l>
+                     <l>preſent a conſcience clean,</l>
+                     <l>Such holy Balme</l>
+                     <l>to mercies throne aſpires;</l>
+                     <l>Confeſſe faults guilt,</l>
+                     <l>crave pardon for thy ſin:</l>
+                     <l>Tread holy Paths,</l>
+                     <l>call grace to guide therein.</l>
+                  </lg>
+                  <lg>
+                     <l>It is the ſpirit,</l>
+                     <l>with reverence muſt obey</l>
+                     <pb n="90" facs="tcp:169930:49"/>
+                     <l>Our Makers will,</l>
+                     <l>to practiſe what he taught:</l>
+                     <l>Make not the fleſh</l>
+                     <l>thy Councell when thou pray,</l>
+                     <l>'Tis enemy</l>
+                     <l>to every vertuous thought:</l>
+                     <l>It is the foe</l>
+                     <l>we dayly feed and cloath;</l>
+                     <l>It is the Priſon</l>
+                     <l>that the ſoule doth loath,</l>
+                  </lg>
+                  <lg>
+                     <l>Even as <hi>Elias</hi>
+                     </l>
+                     <l>mounting to the sky,</l>
+                     <l>Did caſt his mantle</l>
+                     <l>to the earth behind;</l>
+                     <l>So when the heart,</l>
+                     <l>preſents the prayer on high,</l>
+                     <l>Exclude the world</l>
+                     <l>from traffique with the minde.</l>
+                     <l>Lips neare to God,</l>
+                     <l>
+                        <pb n="91" facs="tcp:169930:49"/>and ranging hearts within,</l>
+                     <l>Is but vain babling,</l>
+                     <l>and converts to ſin.</l>
+                  </lg>
+                  <lg>
+                     <l>Like <hi>Abraham,</hi>
+                     </l>
+                     <l>aſcending up the Hill</l>
+                     <l>To ſacrifice,</l>
+                     <l>his ſervants left below,</l>
+                     <l>That he might act</l>
+                     <l>the great Commanders Will,</l>
+                     <l>Without impeach</l>
+                     <l>to his obedient blow;</l>
+                     <l>Even for the ſoule</l>
+                     <l>remote from earthly things,</l>
+                     <l>Should mount ſalvations ſhelter,</l>
+                     <l>mercies wings.</l>
+                  </lg>
+                  <lg>
+                     <l>Nothing more gratefull</l>
+                     <l>in the higheſt eies;</l>
+                     <l>Nothing more firme</l>
+                     <pb n="92" facs="tcp:169930:50"/>
+                     <l>in danger to protect us:</l>
+                     <l>Nothing more forcible</l>
+                     <l>to pierce the skies,</l>
+                     <l>And not depart,</l>
+                     <l>till mercy do reſpect us;</l>
+                     <l>And as the ſoule</l>
+                     <l>life to the body gives:</l>
+                     <l>So prayer revives</l>
+                     <l>the ſoule, by prayer it lives.</l>
+                  </lg>
+               </div>
+               <div type="prayer">
+                  <head>A Prayer.</head>
+                  <p>BEcauſe I have ſinned, O Lord, and done wickedly in thy ſight, and provoked thee to anger by my a<g ref="char:EOLhyphen"/>bominable wickedneſſe, making my body which thou haſt ordayned as a veſſell of thy honour, an inſtrument of moſt deteſtable filthineſſe, O Lord be mercifull unto me, and pardon me
+<pb n="93" facs="tcp:169930:50"/>
+this great wickedneſſe: looke not up<g ref="char:EOLhyphen"/>on me, good Father, with the eyes of juſtice, neither do thou draw againſt me the ſword of judgement; for now ſhall I that am but duſt, ſtand in thy preſence, when thy wrathfull indig<g ref="char:EOLhyphen"/>nation commeth foorth as a whirlewind, and thy heavy diſpleaſure as a tempeſt, ſeeing the earth trembleth, the depths as diſcovered, and the very heavens are ſhaken when thou art an<g ref="char:EOLhyphen"/>gry? Exerciſe not therefore thy fury againſt me, that am but chaffe before the winde, and as ſtubble before a fla<g ref="char:EOLhyphen"/>ming fire: though I have ſinned grie<g ref="char:EOLhyphen"/>uouſly in thy ſight, preferring my wicked deſire before thy holy com<g ref="char:EOLhyphen"/>mandements, eſteeming the pleaſure of a moment before eternall and e<g ref="char:EOLhyphen"/>verlaſting joyes: nay which is worſe making more account of vileneſs and vanity, and extreame folly and mad<g ref="char:EOLhyphen"/>neſſe, then of the glory and majeſty
+<pb n="94" facs="tcp:169930:51"/>
+of the moſt excellent, wonderful, and bleſſed God, nothing dreading his di<g ref="char:EOLhyphen"/>ſpleaſure, whoſe wrath maketh the Divels to quake, and burneth unquen<g ref="char:EOLhyphen"/>chable unto the bottomles pit of hell: whoſe might is ſo great, that by the breath of his noſtrills hee can in the twinkling of an eye deſtroy a thou<g ref="char:EOLhyphen"/>ſand worlds: yet am I bold proſtra<g ref="char:EOLhyphen"/>ting my ſelf before the throne of thy Majeſty, heartily to beſeech, and humbly to intreat thee, that thou wilt not deale with mee according to my merits; for I have deſerved that thou ſhouldſt raine downe fire and brim<g ref="char:EOLhyphen"/>ſtone from out of heaven to devoure me, or to open the earth under mee, to ſwallow mee up quicke into hell: but thou art gratious and full of com<g ref="char:EOLhyphen"/>paſſion, and rich in mercies, therefore do men put their truſt under the ſha<g ref="char:EOLhyphen"/>dow of thy wings. I have none in Heaven to flie unto but thee, nor in
+<pb n="95" facs="tcp:169930:51"/>
+Earth of whom I may receive any comfort but at thy favourable hands, which are ſtretched out day and night to receive all that by earneſt repen<g ref="char:EOLhyphen"/>tance turne to thee, being ready to eaſe all thoſe that are laden with the burden of their ſinnes, and to refreſh their diſtreſſed conſciences. In the multitude of thy mercies I approach unto thee. O Lord, deſiring hee to looke downe from the height of thy ſanctuary upon mee poore, and wret<g ref="char:EOLhyphen"/>ched ſinner, and to wipe away all mine offences, and to blot out all my miſdeeds; eſpecially theſe my ungra<g ref="char:EOLhyphen"/>tious, uncleane, and ungodly ſinnes, which I have confeſſed unto thee, O Lord; oh let them not come up in re<g ref="char:EOLhyphen"/>membrance before thee, nor be impu<g ref="char:EOLhyphen"/>ted to me for ever, for thy ſonnes ſake O Lord, in whom thou art well plea<g ref="char:EOLhyphen"/>ſed, in whom thou waſt fully ſatisfi<g ref="char:EOLhyphen"/>ed upon the Croſſe for my ſinnes:
+<pb n="96" facs="tcp:169930:52"/>
+grant mee free pardon and remiſſion of that I have ſo fooliſhly by my ex<g ref="char:EOLhyphen"/>ceeding frailty committed againſt thy divine Maj<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſty: and worke in my heart an utter deteſtation of all my ſinnes, that I may ever heerafter keep my ſelfe pure and unſpotted for thy kingdom. Thou that art able to make of ſtones children to Abraham, molli<g ref="char:EOLhyphen"/>fie I pray thee my ſtony heart, that all maner of ſon-like affections may bee imprinted therein: pluck up, O good Father, theſe roots of bitterneſs, that no unſavory fruit may come off the tree, which then by thy owne hand haſt planted; I deſire, I looke, I call, I cry for thy aſſiſtance, that I may conquer all my unruly, and diſordi<g ref="char:EOLhyphen"/>nate motions, and deſires, and affecti<g ref="char:EOLhyphen"/>ons. O bleſſed Saviour, that haſt granted ſo many Petitions upon earth, to them that were carefull for the body, fulfill, I pray thee, this my de<g ref="char:EOLhyphen"/>ſire,
+<pb n="97" facs="tcp:169930:52"/>
+not for health, nor ſtrength, nor riches, nor honour, nor for food, nor apparrell, but for thy heavenly grace and inſpiration: yea let mee loſe all thoſe rather then be left in my ſinfull fleſh, that I ſhould be ruled any long<g ref="char:EOLhyphen"/>er thereby. Mortifie in me, good Fa<g ref="char:EOLhyphen"/>ther, the old body of ſinne, and give unto mee a new body, purged from dead works, to ſerve the living God: renew my ſpirit dayly, that I may caſt away the works of darkneſſe: let it be enough, O mercifull Father, that my weakneſſe heeretofore, hath been made knowne unto mee, leſt I ſhould be too proud Now let thy ſtrength appeare, in putting this my enemy under my feet, that thereby I may be bold to put my confidence in thee. Why ſhould my body made by thy hand, and my ſoule framed according to thy Image, be given as a prey into the hands of Sathan? Deliver mee, O
+<pb n="98" facs="tcp:169930:53"/>
+Lord, from the ſnares of the hunter, and preſerve mee from the hands of mine enemy, who lieth in wait for my ſpirituall life, and laboureth my everlaſting deſtruction; ſo ſhall I prayſe thee for thy goodneſſe, and magnifie thy Name, for giving mee conqueſt over my adverſary that is too ſtrong for mee. To thee I <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ie for ſuccour, till this tempeſt be overpaſt; hide me, I pray thee, under thy ſhield, and buckler, that no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e of the fiery darts of Satan take ho<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> of me. Good Lord, for the lov<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> thou beareſt to mankinde<g ref="char:punc">▪</g> for thy Sonnes ſake, who hath taken our nature upon him, grant that I may not bee tempted a<g ref="char:EOLhyphen"/>bove my ſtrength, and that in all temptations I may flie unto thee, gi<g ref="char:EOLhyphen"/>ving thee moſt humble and hearty thankes for that thou haſt given a deſire to withſtand my ſinfull fleſh, which thy worke, I beſeech thee, for
+<pb n="99" facs="tcp:169930:53"/>
+thy Name ſake, to perfect and fully accompliſh, Amen.</p>
+               </div>
+               <div type="poem">
+                  <head>A Meditation of the glory of the new <hi>Jeruſalem.</hi>
+                  </head>
+                  <l>VNto the ſpring of endles life,</l>
+                  <l>My fainting ſoule doth thirſt,</l>
+                  <l>Full faine the cloyſter of her fleſh</l>
+                  <l>With ſpeed ſhe wiſheth burſt.</l>
+                  <l>She ſeeks, ſhe ſues, ſhe ſtrives exild,</l>
+                  <l>Her Countrey to obtaine,</l>
+                  <l>Wailing that nothing heer ſhe finds</l>
+                  <l>But miſery and paine.</l>
+                  <l>Contemplating the glory, which</l>
+                  <l>She when ſhe ſinned loſt,</l>
+                  <pb n="100" facs="tcp:169930:54"/>
+                  <l>Her woes increaſ her grief the more</l>
+                  <l>To think how dear they coſt.</l>
+                  <l>For who can utter with what joy</l>
+                  <l>That happy peace delights?</l>
+                  <l>Wher Palaces ſtand ſtately rear'd</l>
+                  <l>With living Margarites;</l>
+                  <l>With gold the lofty turrets ſhine,</l>
+                  <l>And chambers glittering bright,</l>
+                  <l>And all the frame, with only jems</l>
+                  <l>And pretious ſtones is dight,</l>
+                  <l>The ſtreets, the City out are pav'd</l>
+                  <l>With gold as crystall cleene,</l>
+                  <l>Where dirt, nor raies, nor dung annoyes,</l>
+                  <l>Nor any filth is ſeene.</l>
+                  <l>Stormy winter, ſcorching ſummer,</l>
+                  <l>Come never there to brawle,</l>
+                  <l>Roſe flowers ſpring continually</l>
+                  <l>With spring continuall:</l>
+                  <l>Lillies ſtill white and ſaffron ruddy</l>
+                  <pb n="101" facs="tcp:169930:54"/>
+                  <l>And balſome ſweating growes;</l>
+                  <l>Meads alwayes green, corn alwayes grown</l>
+                  <l>And hony in rivers flows,</l>
+                  <l>Sweet spices breath out fragrant ſmells,</l>
+                  <l>Rich liquors and perfumes,</l>
+                  <l>Fair orchards overſhaded ſtand</l>
+                  <l>With fruit that neer conſumes,</l>
+                  <l>No varying courſe of ſun, or moon,</l>
+                  <l>Or ſtars, comes in their ſight;</l>
+                  <l>The Lamb is to that happy City</l>
+                  <l>A never fayling light.</l>
+                  <l>Nor night, nor morn, nor time is there,</l>
+                  <l>But a continuall day,</l>
+                  <l>Wher Saints in glory ſhine like ſuns</l>
+                  <l>And glittering beams display;</l>
+                  <l>In triumphs crownd, together they</l>
+                  <l>With joy conjubilate,</l>
+                  <l>And the battels of their vanquiſhd foe</l>
+                  <l>Secured, now relate.</l>
+                  <pb n="102" facs="tcp:169930:55"/>
+                  <l>Purg'd clean from either blot or spot</l>
+                  <l>They grudge of fleſh ſeele none;</l>
+                  <l>For fleſh made now spirituall,</l>
+                  <l>With the spirit grees in one,</l>
+                  <l>Abounding with untroubled peace,</l>
+                  <l>No ſcandalls them annoy,</l>
+                  <l>Who freed from mutabilty,</l>
+                  <l>Their center re-enjoy;</l>
+                  <l>Where now they preſent ſee that truth</l>
+                  <l>Which mortall eyes neer ſaw,</l>
+                  <l>And from the everlaſting spring</l>
+                  <l>A living ſweetnes draw.</l>
+                  <l>Where ere they goe they ſtill retain</l>
+                  <l>The ſame unaltred ſtate,</l>
+                  <l>Fair, lively, cherefull, ſubject to</l>
+                  <l>No change, of chance, or fate.</l>
+                  <l>Whoſe health, no ſicknes doth decay,</l>
+                  <l>Whoſe youth no age doth waſte,</l>
+                  <l>Whoſe being without paſſing is,</l>
+                  <pb n="103" facs="tcp:169930:55"/>
+                  <l>For paſſing now is paſt.</l>
+                  <l>They ſpring, they bloom, they floriſh ſtill</l>
+                  <l>From all corruption free,</l>
+                  <l>Mortality is ſwallowed up</l>
+                  <l>By Immortality.</l>
+                  <l>Who knowing him, who all doeth know,</l>
+                  <l>Can ignorant not be,</l>
+                  <l>Who in each others patent breaſts,</l>
+                  <l>All inmoſt ſecrets ſee.</l>
+                  <l>The ſame they will, the ſame they nill,</l>
+                  <l>One mind the ſame of all,</l>
+                  <l>Though according to their ſeverall paines</l>
+                  <l>Their guerdon's ſeverall.</l>
+                  <l>Thus what's anothers, Charity</l>
+                  <l>By love ſo makes her owne,</l>
+                  <l>That what is proper to every one,</l>
+                  <l>To all is common growne.</l>
+                  <l>Wher ere the body's, the Eagles there</l>
+                  <l>Are duly congregated,</l>
+                  <pb n="104" facs="tcp:169930:56"/>
+                  <l>And with it are thoſe bleſſed ſoules</l>
+                  <l>And Angels recreated.</l>
+                  <l>One bread both Country, Citizens,</l>
+                  <l>Doth feed; one bread they crave,</l>
+                  <l>Still hungry, and yet alwayes full,</l>
+                  <l>Still wiſhing what they have.</l>
+                  <l>Whom no ſaciety doth cloy,</l>
+                  <l>Whom hunger doth not bite,</l>
+                  <l>With apetite they ever eat,</l>
+                  <l>And ſtill have appetite.</l>
+                  <l>There the melodious ſinging voyce,</l>
+                  <l>New harmonies concents,</l>
+                  <l>Their ears are lull'd with ſweeteſt ſounds</l>
+                  <l>Of rareſt Inſtruments,</l>
+                  <l>To him by who<g ref="char:cmbAbbrStroke">̄</g> they conquered have</l>
+                  <l>Due praiſes there they ſing.</l>
+                  <l>O happy ſoule! who preſent doſt</l>
+                  <l>Behold ſo great a King,</l>
+                  <l>And from thy lofty throne ſurviewſt</l>
+                  <pb n="105" facs="tcp:169930:56"/>
+                  <l>The underwheeling Globes:</l>
+                  <l>The ſun, the moon, &amp; al the heavens</l>
+                  <l>In ſtar beſpangled robes.</l>
+                  <l>O Chriſt, the palme of warriors,</l>
+                  <l>Vouchſafe me of thy pity,</l>
+                  <l>To make me when I end my war,</l>
+                  <l>A freeman of this City.</l>
+                  <l>Grant me among theſe Citizens</l>
+                  <l>Thy bounties to pertake,</l>
+                  <l>Meane while aſſiſt me with thy ayd,</l>
+                  <l>A happy fight to make:</l>
+                  <l>That warring out my time, the reſt</l>
+                  <l>In quiet I may ſpend,</l>
+                  <l>And for my guerdon thee injoy,</l>
+                  <l>For ever without end.</l>
+                  <closer>Amen.</closer>
+               </div>
+            </div>
+            <div type="discourse">
+               <pb n="106" facs="tcp:169930:57"/>
+               <head>A ſerious diſcourſe concerning the Day of Death.</head>
+               <p>LET us imagine how the time be<g ref="char:EOLhyphen"/>ing now come, in which the ſin<g ref="char:EOLhyphen"/>full ſoule is to be ſeparated from the bands of the body with how grie<g ref="char:EOLhyphen"/>vous feare it is terrified! with how great anguiſh of an afflicted conſci<g ref="char:EOLhyphen"/>ence it is tormented! it remembers the things forbidden, which it hath committed; it beholdeth the Com<g ref="char:EOLhyphen"/>mandements of God, which through negligence and contempt it hath o<g ref="char:EOLhyphen"/>mitted: it grieveth that the time which it had to repent hath been ſo vainly imployed: it grieveth the imutable moment of ſevere revenge is ſo near at hand, not poſſible to bee avoyded: it would fain ſtay, it is for<g ref="char:EOLhyphen"/>ced
+<pb n="107" facs="tcp:169930:57"/>
+to depart; it would faine reco<g ref="char:EOLhyphen"/>ver that which it hath loſt, and can<g ref="char:EOLhyphen"/>not be heard; it looketh backward upon the courſe of its whole life paſt, and eſteemeth it to be but as it were one onely little pace; it looketh for<g ref="char:EOLhyphen"/>ward and ſeeth infinite worlds of time, which ſhall never have end: It lamenteth therfore, for having loſt the joyes of all eternity which it might have gained ſo quickly; it weepeth likewiſe, that for the ſhort pleaſure of the alluring fleſh, it is bereaved of everlaſting happineſſe; it bluſheth that for the ſubſtance ſake, which is to be meat for wormes, it hath neg<g ref="char:EOLhyphen"/>lected that which ſhould have been placed amongſt the quires of Angels.</p>
+               <p>At length it lifteth up the eyes of its mind, and conſidering the glory of the immortall riches of Heaven, it is aſhamed, that for the love of the beggery of this preſent life, it hath
+<pb n="108" facs="tcp:169930:58"/>
+loſt that glory: againe, when it loo<g ref="char:EOLhyphen"/>keth downwards upon the vaile of this world, as upon a miſt, and con<g ref="char:EOLhyphen"/>trariwiſe, ſeeing above it the bright<g ref="char:EOLhyphen"/>neſſe of that eternall light, it plainly perceiveth that that which was loved, was but darkneſſe, and night. Oh if it could obtaine the favour to have ſome little time for repentance! how auſtere would it be in life and conver<g ref="char:EOLhyphen"/>ſation? how many, and how great matters would it promiſe to perform? how ſtrictly would it binde it ſelfe to piety, and devotion? in the meane ſeaſon, whilſt the eye-ſight faileth, and whilſt the heart panteth, and the throat doth draw breath with diffi<g ref="char:EOLhyphen"/>culty, whilſt the countenance grow<g ref="char:EOLhyphen"/>eth pale, and all the members of the body become ſtiffe through cold; whilſt theſe things, and other ſuch like, happen, as certain ſignes of death approaching, all its works and words
+<pb n="109" facs="tcp:169930:58"/>
+preſent themſelves before it, yea, its very thoughts are not wanting; and all theſe give bitter teſtimony againſt it, as againſt the Authour of them: All its ſins and iniquities are laid as it were in heaps before its eyes, and thoſe which it is unwilling to ſee, it is forced to behold, whether it will or no.</p>
+               <p>Moreover, on the one ſide of it, it beholdeth a terrible troop of dreadful Devils, on the other ſide a multitude of heavenly Angels; the ſoule that lyeth in the middeſt, quickly percei<g ref="char:EOLhyphen"/>veth to which of theſe companies it appertaineth, for if there bee ſeen in it the ſignes and tokens of goodneſſe, it is comforted by the comfortable ſpeeches of the Angels, and by the ſweetneſs of their harmonious melo<g ref="char:EOLhyphen"/>dy, it is allured to come forth of the body: contrariwiſe, if the darkneſs of its deſerts, and deformity of its fil<g ref="char:EOLhyphen"/>thineſſe
+<pb n="110" facs="tcp:169930:59"/>
+do adjudge it to the left hand, it is forthwith ſtrucken with intolera<g ref="char:EOLhyphen"/>ble fear; it is troubled through the fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce of the ſudden violence that is uſed; it is throwne down headlong, and aſſaulted, and (poor ſoule) is for<g ref="char:EOLhyphen"/>cibly pluckt out of the priſon of the fleſh, that it may be drawn to eternall torments with unſpeakable bitter<g ref="char:EOLhyphen"/>neſſe.</p>
+               <p>Now after it is departed out of the body, who is able to expreſſe how many troops of wicked ſpirits do lie in wait to intrap it? how many bands of frowning fiends being ready with cruell torments to afflict it doe beſet the way to hinder his paſſage? and to the end it may not eſcape and paſſe through them whole legions of them do aſſault the ſame.</p>
+               <p>Wherefore, to conſider theſe<g ref="char:punc">▪</g> and ſuch like things, by frequent medita<g ref="char:EOLhyphen"/>tion, is a ſoveraigne meanes to con<g ref="char:EOLhyphen"/>temne
+<pb n="111" facs="tcp:169930:59"/>
+the inticing allurements of ſin, to abandon the world, and to ſubdue the unlawfull motions of the fleſh; and finally doth cauſe, and conſerve in us a continuall deſire of attaining to perfection, which God of his mercy grant us, Amen.</p>
+               <p>ALmighty God, and all mercifull Father, which art the Phyſitian of my body and ſoule, in thy hands are life and death; thou bringeſt to the grave and pulleſt backe againe: I came into the world upon conditi<g ref="char:EOLhyphen"/>on to forſake it whenſoever thou wouldeſt call me; and now the Sum<g ref="char:EOLhyphen"/>ners are come, thy fetters hold mee, and none can looſe mee but hee that bound me: I am ſick in body and in ſoule, but he hath ſtrucken me, which in judgement ſheweth mercy; I de<g ref="char:EOLhyphen"/>ſerved to die ſo ſoon as I came to life, but thou haſt preſerved me till now;
+<pb n="112" facs="tcp:169930:60"/>
+and ſhall this mercy be in vaine, as though I were preſerved for nothing? who can praiſe thee in the grave? I have done thee no ſervice ſince I was borne, but my goodneſs is to come; and ſhall I die before I begin to live? but, Lord, thou knoweſt what is beſt of all, and if thou con<g ref="char:EOLhyphen"/>vert me I ſhall be converted in an in<g ref="char:EOLhyphen"/>ſtant; and as thou acceptedſt the will of David as well as the act of Solomon, ſo thou wilt accept my de<g ref="char:EOLhyphen"/>ſire to ſerve thee, as well as if I had lived to glorifie thee: the ſpirit is willing, but the fleſh is fraile, and as I did live ſinfully whenſoever thy ſpi<g ref="char:EOLhyphen"/>rit was from me, ſo I ſhal die unwil<g ref="char:EOLhyphen"/>lingly, unleſſe thy ſpirit prepare me; therefore, dear Father, give me that minde which a ſick man ſhould have, and increaſe my patience with my pain, and call unto my remembrance all which I have heard, or read, or
+<pb n="113" facs="tcp:169930:60"/>
+felt, or meditated, to ſtrengthen mee in this hour of my triall that I which never taught any good while I lived, may now teach others how to dye, &amp; to bear their ſickneſs patiently: ap<g ref="char:EOLhyphen"/>ply unto me all the mercies and me<g ref="char:EOLhyphen"/>rits of thy beloved Son, as if he had died for me alone: be not far from me when the enemy comes, but when the tempter is buſieſt, let thy ſpirit be buſie too, and if it pleaſe thee to looſe me out of this priſon, when I ſhall leave my earth to earth, let thy An<g ref="char:EOLhyphen"/>gels carry up my ſoule to Heaven, as they did Lazarus<g ref="char:punc">▪</g> and place me in one of thoſe Manſions which thy Son is gone to prepare for me; this is my Mediator which hath reconciled me unto thee; when thou didſt abhor me for my ſins, thou didſt ſend him from heaven to me, to ſhew that thou art ready to heare him for us, therefore in him I come unto thee, in him I
+<pb n="114" facs="tcp:169930:61"/>
+will call upon thee, O my Redeemer, Preſerver, and my Saviour, to thee be praiſe with the Father, and the Holy Spirit for ever. Amen.</p>
+               <p>Who ſhall ſtay mee from my Fa<g ref="char:EOLhyphen"/>ther, and my Brother, and my Com<g ref="char:EOLhyphen"/>forter.</p>
+               <p>I Owe God a death, as his Son died for me: ever ſince I was borne I have been ſayling towards this Ha<g ref="char:EOLhyphen"/>ven, and gathering patience to com<g ref="char:EOLhyphen"/>fort this houre, therefore ſhall I be one of thoſe gueſts now that would not come to the banquet when they were invited? what hurt is in going to Paradice? I ſhall loſe nothing but the ſenſe of evil, and anon I ſhall have greater joyes then I feele pains; for my head is in Heaven already, to aſ<g ref="char:EOLhyphen"/>ſure me that my ſoule and body ſhall follow after: O Death where is thy ſting? why ſhould I fear that which
+<pb n="115" facs="tcp:169930:61"/>
+I would not eſcape, becauſe my chie<g ref="char:EOLhyphen"/>feſt happineſs is behind, and I cannot have it unleſſe I go unto it; I would goe through Hell to Heaven; and therefore if I march but through death, I ſuffer leſſe then I would for God: my pains do not diſmay me, becauſe I travell to bring forth eter<g ref="char:EOLhyphen"/>nall life; my ſins do not affright me, becauſe I have Chriſt my Redeemer; the Judge doth not aſtoniſh me, be<g ref="char:EOLhyphen"/>cauſe the Judges Son is my Advocate; the Devill doth not amaze me, be<g ref="char:EOLhyphen"/>cauſe the Angels pitch about mee; the grave doth not grieve me, becauſe it was my Lords bed. O that Gods mercies to me, might move others to love him; for the leſs I can expreſſe it, the more it is: the Prophets and A<g ref="char:EOLhyphen"/>poſtles are my forerunners, every man is gone before me, or elſe he will follow after me<g ref="char:punc">▪</g> if it pleaſe God to receive mee into Heaven before them
+<pb n="116" facs="tcp:169930:62"/>
+that have ſerved him better, I owe more thanks to him: and becauſe I have deferred my repentance till this houre, wherby my ſalvation is cut off if I ſhould dye ſuddenly: lo, how my God in his mercifull providence, to prevent my deſtruction, calleth me by a lingring ſickneſs, which ſtayeth till I be ready, and prepareth me to my end lik a Preacher, and makes me by wofull pains, wery of this beloved world, leſt I ſhould depart unwil<g ref="char:EOLhyphen"/>lingly, like them whoſe death is their damnation: ſo he loveth me whilſt he beateth mee, that his ſtripes are Plai<g ref="char:EOLhyphen"/>ſters to ſalve me: therefore who ſhal love him, if I forſake him? this is my whole deſire now to ſtrengthen my body with my heart, and to be con<g ref="char:EOLhyphen"/>tented, as God hath appoynted, un<g ref="char:EOLhyphen"/>till I glorifie him, or he glorifie mee; If I live, I live to ſacrifice; if I die, I die a ſacrifice, for his mercy is above
+<pb n="117" facs="tcp:169930:62"/>
+my iniquity: therefore if I ſhould fear death, it were a ſigne that I had not faith, nor hope, as I profeſſed but that I doubted of Gods truth in his promiſe, whether he will forgive his penitent ſinners or no. It is my Fa<g ref="char:EOLhyphen"/>ther, let him doe what ſeemeth good in his ſight. Come Lord Jeſus, for thy ſervant commeth; I am willing, help my unwillingneſſes.</p>
+            </div>
+            <div n="morning" type="devotions">
+               <pb n="118" facs="tcp:169930:63"/>
+               <head>For the Morning.</head>
+               <div type="poem">
+                  <l>NOw that the day ſtar doth ariſe</l>
+                  <l>Beg we of God with hu<g ref="char:cmbAbbrStroke">̄</g>ble cries</l>
+                  <l>Hurtfull things to keep away,</l>
+                  <l>While we duly ſpend the day,</l>
+                  <l>Our tongues to guide, ſo that no ſtrife</l>
+                  <l>May breed diſquiet in our life:</l>
+                  <l>To ſhut and cloſe the wandring eye,</l>
+                  <l>Leſt it let in vanity:</l>
+                  <l>To keep the heart as pure and free</l>
+                  <l>From <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nd and troubled fantaſie:</l>
+                  <l>To tame proud fleſh, while we deny it</l>
+                  <l>A full cup and wanton diet,</l>
+                  <l>That when the day light ſhall go out</l>
+                  <l>Time bringing on the night about,</l>
+                  <pb n="119" facs="tcp:169930:63"/>
+                  <l>We by leaving worldly wayes,</l>
+                  <l>May in ſilence ſing God prayſe.</l>
+                  <closer>Amen.</closer>
+               </div>
+               <div type="poem">
+                  <l>Come Holy Ghoſt, our ſoules in<g ref="char:EOLhyphen"/>ſpire,</l>
+                  <l>And lighten with celeſtiall fire;</l>
+                  <l>Thou the anointing ſpirit art</l>
+                  <l>Who doſt thy ſevenfold gifts impart;</l>
+                  <l>Thy bleſſed unction from above,</l>
+                  <l>Is comfort, life, and fire of love;</l>
+                  <l>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> with perpetuall light</l>
+                  <l>The <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>neſſe of my blinded ſight.</l>
+                  <l>Ano<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t and cheere my ſoyled face</l>
+                  <l>With the abundance of thy grace:</l>
+                  <l>Keep <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> my <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oes, give peace at hom</l>
+                  <l>Where thou art guide, no ill can com.</l>
+                  <l>Teach mee to know the father, ſon,</l>
+                  <pb n="120" facs="tcp:169930:64"/>
+                  <l>And thee of both to be but one.</l>
+                  <l>That through the Ages all along,</l>
+                  <l>This may be my endles ſong,</l>
+                  <l>Prayſe to thy Eternall Merit,</l>
+                  <l>Father, Son, and Holy Spirit.</l>
+               </div>
+               <div type="prayer">
+                  <head>A Prayer for the Morning.</head>
+                  <p>
+                     <hi>O Lord be mercifull unto mee a miſerable ſinner.</hi>
+                  </p>
+                  <p>
+                     <hi>O Lord I beſeech thee, let thine eares bee attentive unto the prayer of thy ſervant that deſires to feare thy name, and proſper I pray thee, thy ſervant this day.</hi>
+                  </p>
+                  <p>
+                     <hi>And good Lord I beſeech thee, ſend thy holy Spirit into my ſoule, ſo to teach mee to pray unto thee,
+<pb n="121" facs="tcp:169930:64"/>
+that both my ſelfe, and my prayers, may be acceptable in thy ſight, O Lord my ſtrength, and my Redee<g ref="char:EOLhyphen"/>mer. And good Lord I beſeech thee, to remove all my ſinnes out of thy ſight, that they may neither hinder my prayers from aſcending up unto thee, nor thy mercies from deſcending downe upon me: And good Lord, I humbly beſeech thee, to baniſh out of my heart and ſoule all evil thoughts and deſires, all fond love and affection, all carnall luſt and concupiſcence, and whatſo<g ref="char:EOLhyphen"/>ever elſe may any way hinder mee from the true love, and worſhip of thy divine and ſacred Majeſty.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <pb n="122" facs="tcp:169930:65"/>
+                  <p>O Eternall God, maker and high poſſeſſour both of Heaven and Earth, looke downe, I humbly be<g ref="char:EOLhyphen"/>ſeech thee, with pity and compaſſion upon a poor, miſerable, diſtreſſed ſin<g ref="char:EOLhyphen"/>ner, who am not worthy to lift up my eyes towards the throne of thy divine and ſacred Majeſty much leſſe worthy of any of thy mercies, and gracious bleſſings, which continual<g ref="char:EOLhyphen"/>ly from time to time thou haſt beene pleaſed to beſtow upon mee<g ref="char:punc">▪</g> for, O Lord, ſo many and ſo mighty are my ſinnes, wherewith I have offended thy divine and ſacred Majeſty, both in thought, word, deed, and deſire, that if thou ſhouldſt enter into judge<g ref="char:EOLhyphen"/>ment with mee, and deale with mee according to thy juſtice, and my de<g ref="char:EOLhyphen"/>ſert, I muſt expect nothing but eter<g ref="char:EOLhyphen"/>nall death and damnation: But I moſt humbly beſeech thee for Jeſus
+<pb n="123" facs="tcp:169930:65"/>
+Chriſt his ſake, that it wil pleaſe thee to have mercy upon me, and to par<g ref="char:EOLhyphen"/>don me all my ſinnes and offences, and to remove all thoſe judgements away from mee, which my ſinnes have de<g ref="char:EOLhyphen"/>ſerved: and give mee grace ever heer<g ref="char:EOLhyphen"/>after to amend my ungodly life, and to love, and ſerve, and honour thee, truly, faithfully, and unfeignedly, without pride, preſumption, vaine glory, and hypocriſie; from theſe and all other deadly ſinnes, good Lord de<g ref="char:EOLhyphen"/>liver me. And good Father, I give thee moſt humble thanks for all thy mercies and gracious bleſſings which continually from time to time thou haſt been pleaſed to beſtow upon me, more eſpecially for that it hath plea<g ref="char:EOLhyphen"/>ſed thee this night paſt to preſerve me from all evills, notwithſtanding all my ſinnes, and ill deſerts; Lord thou mighteſt have made my bed my grave, and throwne my ſoule into the
+<pb n="124" facs="tcp:169930:66"/>
+deep pit of hell, hadſt thou dealt with mee according to thy juſtice, and my deſert, but good Father, as thou haſt given me time, ſo I beſeech thee, for Jeſus Chriſt his ſake, to give me grace to repent and amend my ungodly life, and to ſpend thoſe remnant of dayes which thou haſt appointed me to live, only in thy ſervice. And to that end, O Lord I humbly beſeech thee, with<g ref="char:EOLhyphen"/>drawe my heart and ſoule from the love of the world and worldly vani<g ref="char:EOLhyphen"/>ties, and wholly devote it unto the love and ſervice of thy divine Maje<g ref="char:EOLhyphen"/>ſty. And good Father, I humbly be<g ref="char:EOLhyphen"/>ſeech thee, for Jeſus Chriſt his ſake, that it wil pleaſe thee to continue thy loving favour unto me, in preſerving me this day from all ſin and wicked<g ref="char:EOLhyphen"/>neſſe, from all evill thoughts, words, deeds, and deſires, and from all evill and misfortune, both of ſoule and bo<g ref="char:EOLhyphen"/>dy: good Lord, ſanctifie my ſoul and
+<pb n="125" facs="tcp:169930:66"/>
+body this day and evermore to thy ſervice; Lord bleſſe and proſper all my proceedings, all my thoughts, words, deeds, and deſires, and grant that they may all bee directed to the honour and glory of thy Name, the good of others, and the peace and comfort of my owne ſoule and con<g ref="char:EOLhyphen"/>ſcience, when I ſhall come before thee to make my laſt accounts<g ref="char:punc">▪</g> Lord keep me in thy faith, fear, and love; and give me grace to live in thy feare, and die in thy favor; and good Lord, I humbly beſeech thee to grant mee the uſe of my ſight, ſenſes, and limbs, whileſt I live in this tranſitory life, that I may bee the better inabled to ſerve thee: Lord bee mercifull to thy whole Church and choſen people e<g ref="char:EOLhyphen"/>very where, and in thy good time e<g ref="char:EOLhyphen"/>ſtabliſh thy true Religion and Wor<g ref="char:EOLhyphen"/>ſhip amongſt us, which is agreeable to thy holy wil and word. And now
+<pb n="126" facs="tcp:169930:67"/>
+good Lord, Into thy hands I humbly commend my ſoule and body my life and all that ever I have, to be guided directed and protected by thee: good Lord, ſuffer me not this day to doe a<g ref="char:EOLhyphen"/>ny thing to diſpleaſe thee, but let thy holy ſpirit guide and direct mee, thy holy Angels pitch their tents round about mee, to keepe and protect mee from all the aſſaults of my enemies both bodily and ghoſtly this day and ever: Good Lord, ſhew me the way wherein I ſhall walke, and the thing that I ſhall doe; and give mee grace to walke humbly, faithfully, and ſin<g ref="char:EOLhyphen"/>cerely before thee this day and all the dayes of my life; grant this, O moſt mercifull Father, and whatſoever elſe thou in thy divine wiſedome know<g ref="char:EOLhyphen"/>eſt moſt needfull for me, and that for the merits of thy deare ſonne, my Sa<g ref="char:EOLhyphen"/>viour Jeſus Chriſt; to whom with the Father, and the holy and bleſſed Spi<g ref="char:EOLhyphen"/>rit,
+<pb n="127" facs="tcp:169930:67"/>
+be aſcribed all honour, prayſe, po<g ref="char:EOLhyphen"/>wer, and glory, world without end, Amen.</p>
+               </div>
+               <trailer>O Lord pardon the imperfection of my Prayers.</trailer>
+               <trailer>Dum expiro ſpero.</trailer>
+            </div>
+            <div n="evening" type="devotions">
+               <pb n="128" facs="tcp:169930:68"/>
+               <head>For the Evening.</head>
+               <div type="poem">
+                  <lg>
+                     <l>BLeſſed Savior, Lord of all,</l>
+                     <l>Vouchſafe to heare when we call:</l>
+                     <l>And now to thoſe propitious be,</l>
+                     <l>That in prayer bow to thee,</l>
+                     <l>Still to be kept from miſery.</l>
+                  </lg>
+                  <lg>
+                     <l>Great ruler of the day and night,</l>
+                     <l>On our darknes caſt thy light,</l>
+                     <l>And let thy paſſion pardon win</l>
+                     <l>For what we have offended in</l>
+                     <l>Thought, or word, or deed of ſin.</l>
+                  </lg>
+                  <lg>
+                     <l>And as thy mercy wipes away</l>
+                     <l>What we have done amiſſe to day,</l>
+                     <pb n="129" facs="tcp:169930:68"/>
+                     <l>So now the night returns again</l>
+                     <l>Our bodies, and our ſouls reſtrain</l>
+                     <l>From being ſoild with ſinfull ſtain.</l>
+                  </lg>
+                  <lg>
+                     <l>Let not dull ſleepe oppreſs our eyes,</l>
+                     <l>Nor us the enemy ſurpriſe,</l>
+                     <l>Nor fearfull dreames our minds affright</l>
+                     <l>While the blacknes of the night</l>
+                     <l>Holds from us the cheerfull light.</l>
+                  </lg>
+                  <lg>
+                     <l>To thee who doeſt by reſt renew</l>
+                     <l>Our waſted ſtrength, we humbly ſue</l>
+                     <l>That when we ſhall uncloſe our eies,</l>
+                     <l>Pure and chaſte we may ariſe,</l>
+                     <l>And make our morning ſacrifice.</l>
+                  </lg>
+                  <lg>
+                     <l>Honour Lord to thee be done,</l>
+                     <l>O thou bleſſed Virgins Son,</l>
+                     <l>With the Father, and the Spirit,</l>
+                     <pb n="130" facs="tcp:169930:69"/>
+                     <l>As is thine eternall merit,</l>
+                     <l>Ever and ever to inherit.</l>
+                  </lg>
+                  <closer>Amen</closer>
+               </div>
+               <div type="prayer">
+                  <head>An Evening Prayer for a private Family.</head>
+                  <p>O Eternall and moſt glorious Lord God, Creator and Maker of Heaven and Earth, we the moſt mi<g ref="char:EOLhyphen"/>ſerable, moſt ſinfull, and moſt unwor<g ref="char:EOLhyphen"/>thy of all thy creatures, do here pre<g ref="char:EOLhyphen"/>ſume to preſent our ſelves before the Throne of thy moſt glorious Majeſty, from the bottome of our hearts hum<g ref="char:EOLhyphen"/>bly acknowledging our vile wicked<g ref="char:EOLhyphen"/>neſs, and upon our knees beg pardon of thy gracious and moſt glorious Ma<g ref="char:EOLhyphen"/>jeſty, for all our ſins paſt, committed in thought, word, or deed, againſt thy divine Majeſty: And as in duty we
+<pb n="131" facs="tcp:169930:69"/>
+are bound, we give thee glory and praiſe for all thy mercies, and good bleſſings from time to time beſtowed upon us: and more eſpecially and in particular, we laud and magnifie thy great and moſt glorious Name, for that thou haſt preſerved us ſafe this day paſt from all evils, and from all dangers, both of body and ſoule, and haſt beſtowed thy bleſſings upon us both ſpirituall and temporall: for which, as for all the reſt of thy good gifts and benefits, which either this day paſt, or at any other time, thou haſt been graciouſly pleas'd to beſtow upon us, we magnifie thy great and glorious Name; beſeeching thee, that with thy bleſſings thou wilt give us thy Grace, that we may live to glori<g ref="char:EOLhyphen"/>fie thy great and moſt mighty Name for them all. And good Lord, wee beſeech thee, paſſe by our great, ma<g ref="char:EOLhyphen"/>nifold, and moſt numberleſſe ſins and
+<pb n="132" facs="tcp:169930:70"/>
+tranſgreſſions: Lord grant us true repentance for them all; and grant us grace ever hereafter, to ſerve and pleaſe thee in newneſſe of life, all the the dayes we have to live in this our Pilgrimage. Lord teach us ſo to number our dayes that we may apply our hearts unto wiſedome, and grant us grace, good Father, that we may ſo ſpend our remainder of dayes that we have to live in this world, that they may be to the glory of thy great Name, and to the ſalvation of our own ſouls, for Jeſus Chriſts ſake. And as thou haſt been a mighty and moſt glorious Lord God, in preſerving and keeping of us, all the dayes and times of our life hitherto, and eſpecially this day paſt, ſo good Lord, vouch<g ref="char:EOLhyphen"/>ſafe to take us all this night into thy moſt glorious protection: Lord, de<g ref="char:EOLhyphen"/>fend and keep us from all evils, and from all dangers, that may happen
+<pb n="133" facs="tcp:169930:70"/>
+unto us either bodily or ghoſtly Lord, let thy holy Angels guard us to deli<g ref="char:EOLhyphen"/>ver us from all evils. Lord bleſſe us all with the quiet reſt and ſleep of our bodies: Save us, good Lord, wak<g ref="char:EOLhyphen"/>ing, and keepe us ſleeping, that wee may wake in Chriſt and reſt in peace. Bleſſe us, that both ſleeping and wak<g ref="char:EOLhyphen"/>ing we may be thine. O Lord, leave us not to our ſelves, nor forſake us utterly, but in thy bleſſed time, make us to be ſheep of that flocke whereof our bleſſed Lord and Saviour Chriſt Jeſus is the great Shepheard. Hear us, good Lord, in theſe our weak &amp; moſt imperfect prayers; grant us them, and what elſe thou in thy mighty wiſdome knoweſt to be moſt neceſſa<g ref="char:EOLhyphen"/>ry for us, and that for the glory of thy great Names ſake, for thy mercy ſake, and for our bleſſed Lord and Sa<g ref="char:EOLhyphen"/>viour Chriſt Jeſus ſake; in whoſe moſt bleſſed name and words we further
+<pb n="134" facs="tcp:169930:71"/>
+call upon thee, as he in his holy, and Heavenly, and moſt bleſſed Goſpel hath taught us ſaying:</p>
+                  <p>Our Father, &amp;c.</p>
+                  <p>Let thy mighty hand and outſtret<g ref="char:EOLhyphen"/>ched arme, O Lord, be ſtill our de<g ref="char:EOLhyphen"/>fence; thy mercy and loving kindnes in Jeſus Chriſt thy deare ſonne, our ſalvation; thy true and holy word, our inſtruction; thy grace and holy ſpirit, our comfort and conſolation, unto the end, and in the end. Amen.</p>
+               </div>
+               <div type="prayer">
+                  <head>When we enter into our bed.</head>
+                  <p>IN the Name of our Lord Jeſus Chriſt, (who was crucified upon his Croſſe, and layd into his grave for me) I lay me downe to reſt: he bleſſe me, keepe me, and rayſe me up again,
+<pb n="135" facs="tcp:169930:71"/>
+and bring mee at laſt to life eternall. Amen.</p>
+                  <p>I will lay me downe in peace, and take my reſt, for it is thou Lord only, that makeſt me dwell in ſafety.</p>
+                  <p>Have mercy upon mee, O Lord, now and at the howre of death.</p>
+                  <p>Preſerve mee while I am waking, and defend mee when I am ſleeping, that my ſoule may continually watch for thee, and both body and ſoule may reſt in thy peace for evermore, Amen.</p>
+               </div>
+               <div type="poem">
+                  <pb n="136" facs="tcp:169930:72"/>
+                  <head>An admonition before wee goe to ſleepe.</head>
+                  <lg>
+                     <l>PErmit not ſluggiſh ſleep</l>
+                     <l>To cloſe your waking eye,</l>
+                     <l>Till that with judgement deepe</l>
+                     <l>Your dayly deeds you try.</l>
+                     <l>He that his ſin in conſcience keeps</l>
+                     <l>When he to quiet goes,</l>
+                     <l>More deſperat is then he that ſleeps</l>
+                     <l>Amidſt his mortall foes.</l>
+                  </lg>
+                  <lg>
+                     <l>At night lie downe</l>
+                     <l>Prepare to have</l>
+                     <l>Thy ſleep, thy death,</l>
+                     <l>Thy bed, thy grave.</l>
+                     <pb n="137" facs="tcp:169930:72"/>
+                     <l>Awake, ariſe,</l>
+                     <l>Thinke that thou haſt</l>
+                     <l>Thy life but lent,</l>
+                     <l>Thy breath a blaſt.</l>
+                     <l>O thou God Almighty!</l>
+                     <l>Father of all mercy,</l>
+                     <l>Fountaine of all pity,</l>
+                     <l>Grant I beſeech thee,</l>
+                     <l>Of thy great clemency,</l>
+                     <l>On me to have mercy,</l>
+                     <l>Now, and at the howre of death,</l>
+                  </lg>
+                  <closer>Amen.</closer>
+               </div>
+            </div>
+            <div type="collection">
+               <div n="solomon" type="proverbs">
+                  <pb n="138" facs="tcp:169930:73"/>
+                  <head>Proverbs of <hi>Solomon,</hi>
+                  </head>
+                  <div n="10" type="chapter">
+                     <head>Chap. <hi>10.</hi>
+                     </head>
+                     <p>TReaſures of wickedneſſe profit nothing: but righteouſneſſe de<g ref="char:EOLhyphen"/>livereth from death.</p>
+                     <p>The Lord will not ſuffer the ſoule of the righteous to famiſh: but hee caſteth away the ſubſtance of the wic<g ref="char:EOLhyphen"/>ked.</p>
+                     <p>Bleſſings are upon the head of the Juſt: but violence covereth the mouth of the wicked.</p>
+                     <p>The memory of the juſt is bleſſed: but the name of the wicked ſhall rot.</p>
+                     <p>The bleſſings of the Lord it maketh rich, and he doth adde no ſorrowes with it.</p>
+                     <p>The fear of the Lord increaſeth the daies: but the years of the wicked ſhall be diminiſhed.</p>
+                     <pb n="139" facs="tcp:169930:73"/>
+                     <p>The patient abiding of the righte<g ref="char:EOLhyphen"/>ous ſhalbe gladneſſe: but the hope of the wicked ſhall periſh.</p>
+                     <p>The righteous ſhall never be remo<g ref="char:EOLhyphen"/>ved: but the wicked ſhall not dwell in the Land.</p>
+                  </div>
+                  <div n="11" type="chapter">
+                     <head>
+                        <hi>Chap.</hi> 11.</head>
+                     <p>RIches availe not in the day of wrath: but righteouſneſſe deli<g ref="char:EOLhyphen"/>vereth from death.</p>
+                     <p>The righteouſneſs of the juſt ſhall deliver them: but the tranſgreſſors ſhalbe taken in their owne net.</p>
+                     <p>He that is mercifull rewardeth his owne ſoule.</p>
+                     <p>As righteouſneſs leadeth to life: ſo he that followeth evill, ſeeketh his owne death.</p>
+                     <p>They that are of a froward heart, are abomination to the Lord: but they that are upright in the way, are his delight.</p>
+                     <pb n="140" facs="tcp:169930:74"/>
+                     <p>He that truſteth in riches ſhall fall: but the righteous ſhall flouriſh as a leafe.</p>
+                  </div>
+                  <div n="13" type="chapter">
+                     <head>
+                        <hi>Chap.</hi> 13.</head>
+                     <p>THe hope that is deferred, is the fainting of the heart: but when the deſire commeth, it is a tree of life.</p>
+                     <p>He that deſpiſeth the word, he ſhalbe deſtroyed: but he that feareth the Commandements, he ſhalbe re<g ref="char:EOLhyphen"/>warded.</p>
+                  </div>
+                  <div n="14" type="chapter">
+                     <head>
+                        <hi>Chap.</hi> 14.</head>
+                     <p>IN the fear of the Lord is an aſſured ſtrength, and his Children ſhall have hope.</p>
+                     <p>The feare of the Lord is a Well-ſpring of life, to avoyd the ſnares of death.</p>
+                  </div>
+                  <div n="15" type="chapter">
+                     <pb n="141" facs="tcp:169930:74"/>
+                     <head>
+                        <hi>Chap.</hi> 15.</head>
+                     <p>THe Lord is far from the wicked: but he heareth the prayer of the righteous.</p>
+                     <p>The feare of the Lord is the inſtru<g ref="char:EOLhyphen"/>ction of wiſdome: and before ho<g ref="char:EOLhyphen"/>nour goeth humility.</p>
+                  </div>
+                  <div n="16" type="chapter">
+                     <head>
+                        <hi>Chap.</hi> 16.</head>
+                     <p>COmmit thy workes unto the Lord, and thy thoughts ſhalbe directed.</p>
+                     <p>By mercy, and truth iniquity ſhall be forgiven: and by the feare of the Lord they departed from evill.</p>
+                     <p>Age is a crowne of glory, when it is found in the way of righteouſneſſe.</p>
+                     <p>He that is ſlow to anger, is better then the mighty man: and he that ruleth his own mind is better then he
+<pb n="142" facs="tcp:169930:75"/>
+that winneth a City.</p>
+                  </div>
+                  <div n="17" type="chapter">
+                     <head>
+                        <hi>Chap.</hi> 17.</head>
+                     <p>A Joyfull heart cauſeth good health: but a ſorrowfull minde drieth the bones.</p>
+                  </div>
+                  <div n="18" type="chapter">
+                     <head>
+                        <hi>Chap.</hi> 18.</head>
+                     <p>THe name of the Lord is a ſtrong towre: the righteous runneth to it and is exalted.</p>
+                     <p>The ſpirit of man will ſuſtain his infirmity: but a wounded ſpirit who can beare?</p>
+                  </div>
+                  <div n="19" type="chapter">
+                     <head>
+                        <hi>Chap.</hi> 19.</head>
+                     <p>HEE that hath mercy upon the poore, lendeth unto the Lord, and the Lord will recompence him that which he hath given.</p>
+                     <pb n="143" facs="tcp:169930:75"/>
+                     <p>The feare of the Lord leadeth to life; and he that is filled therewith, ſhall continue, and ſhall not be viſited with evill.</p>
+                  </div>
+                  <div n="21" type="chapter">
+                     <head>
+                        <hi>Chap.</hi> 21.</head>
+                     <p>HEE that followeth after righte<g ref="char:EOLhyphen"/>ouſneſſe and mercy, ſhall finde life, righteouſneſſe and glory.</p>
+                  </div>
+                  <div n="22" type="chapter">
+                     <head>
+                        <hi>Chap.</hi> 22.</head>
+                     <p>THe reward of humility, and the fear of God, is riches, glory, and life.</p>
+                     <p>My ſon, give me thy heart, and let thine eyes delight in my wayes.</p>
+                  </div>
+                  <div n="28" type="chapter">
+                     <head>
+                        <hi>Chap.</hi> 28.</head>
+                     <p>HEE that hideth his ſins ſhall not proſper: but he that confeſſeth
+<pb n="144" facs="tcp:169930:76"/>
+and forſaketh them, ſhall have mercy.</p>
+                     <p>Bleſſed is the man that feareth al<g ref="char:EOLhyphen"/>way: but he that hardneth his heart, ſhall fall into evill.</p>
+                     <p>He that walketh uprightly ſhal be ſaved: but he that is froward in his wages, ſhall fall at once.</p>
+                  </div>
+               </div>
+               <div n="job" type="proverbs">
+                  <head>
+                     <hi>Job. Chap.</hi> 28.</head>
+                  <p>THe feare of the Lord is wiſdome, and to depart from evill is un<g ref="char:EOLhyphen"/>derſtanding.</p>
+               </div>
+               <div n="ecclesiastes" type="proverbs">
+                  <head>
+                     <hi>Eccleſiaſtes. Chap.</hi> 7.</head>
+                  <p>A Good Name is better then a good Oyntment, and the day of death then the day that one is born.</p>
+                  <p>It is better to go to the houſe of mourning, then to the houſe of feaſt<g ref="char:EOLhyphen"/>ing,
+<pb n="145" facs="tcp:169930:76"/>
+becauſe this is the end of all men: and the living ſhall lay it to heart. Anger is better then laughter; for by a ſad look the heart is made better.</p>
+                  <p>The heart of the wiſe is in the houſe of mourning: but the heart of fools is in the houſe of mirth.</p>
+                  <p>The end of a thing is better then the beginning thereof: and the pa<g ref="char:EOLhyphen"/>tient in ſpirit is better then the proud in ſpirit.</p>
+                  <p>In the day of wealth be of good Comfort; and in the day of affliction conſider.</p>
+                  <p>Surely there is no man juſt upon the earth, that doth good and ſinneth not.</p>
+               </div>
+               <div n="ecclesiasticus" type="proverbs">
+                  <head>Eccleſiaſticus.</head>
+                  <div n="1" type="chapter">
+                     <head>
+                        <hi>Chap.</hi> 1.</head>
+                     <p>THe fear of the Lord is glory, and gladneſſe, and rejoycing, and a
+<pb n="146" facs="tcp:169930:77"/>
+joyfull Crowne.</p>
+                     <p>The fear of the Lord maketh a mer<g ref="char:EOLhyphen"/>ry heart, and giveth gladneſs, and joy, and long life.</p>
+                     <p>Who ſo feareth the Lord, it ſhall go well with him at the laſt, and he ſhall finde favour in the day of his death.</p>
+                     <p>Who ſo feareth the Lord ſhall proſ<g ref="char:EOLhyphen"/>per, and in the day of his end he ſhall be bleſſed.</p>
+                     <p>A patient man will ſuffer for a time, and then he ſhall have the re<g ref="char:EOLhyphen"/>ward of joy.</p>
+                  </div>
+                  <div n="2" type="chapter">
+                     <head>
+                        <hi>Chap.</hi> 2.</head>
+                     <p>YE that feare the Lord, love him, and your hearts ſhalbe lightned.</p>
+                     <p>Conſider the old generations of men, ye children, and marke them them well: was there ever any con<g ref="char:EOLhyphen"/>founded that put his truſt in the Lord?
+<pb n="147" facs="tcp:169930:77"/>
+or who hath continued in his feare, and was forſaken? or whom did he ever diſpiſe that called upon him?</p>
+                     <p>For God is gracious and mercifull, and forgiveth ſins, and ſaveth in the time of trouble, and is a defender for all them that ſeek him in truth.</p>
+                  </div>
+                  <div n="6" type="chapter">
+                     <head>
+                        <hi>Chap.</hi> 6.</head>
+                     <p>HOld friendſhip with many, ne<g ref="char:EOLhyphen"/>vertheleſs have but one Coun<g ref="char:EOLhyphen"/>cellor of a thouſand.</p>
+                     <p>Depart from thy enemies, and bee wary of thy friends.</p>
+                  </div>
+                  <div n="7" type="chapter">
+                     <head>
+                        <hi>Chap.</hi> 7.</head>
+                     <p>LEt not them that weep be with<g ref="char:EOLhyphen"/>out comfort: Bur mourne with ſuch as mourne.</p>
+                     <p>Whatſoever thou takeſt in hand remember the end, and thou ſhalt ne<g ref="char:EOLhyphen"/>ver do amiſs.</p>
+                  </div>
+                  <div n="8" type="chapter">
+                     <pb n="148" facs="tcp:169930:78"/>
+                     <head>
+                        <hi>Chap.</hi> 8.</head>
+                     <p>DEſpiſe not a man that turneth himſelfe away from ſin, nor caſt him not in the teeth withall, but re<g ref="char:EOLhyphen"/>member that we are all worthy of blame.</p>
+                  </div>
+                  <div n="9" type="chapter">
+                     <head>
+                        <hi>Chap.</hi> 9.</head>
+                     <p>TRy thy neighbor as near as thou canſt; and ask Counſell of the wiſe.</p>
+                     <p>Let thy talk be with the wiſe, and all thy communication in the Law of the moſt high.</p>
+                     <p>Let juſt men eat and drink with thee, and let thy rejoycing be in the fear of the Lord.</p>
+                  </div>
+                  <div n="10" type="chapter">
+                     <head>
+                        <hi>Chap.</hi> 10.</head>
+                     <p>GOd deſtroyeth the memoriall of the proud, and leaveth the re<g ref="char:EOLhyphen"/>membrance
+<pb n="149" facs="tcp:169930:78"/>
+of the humble.</p>
+                     <p>Pride was not created in men, nei<g ref="char:EOLhyphen"/>ther wrath in the generation of wo<g ref="char:EOLhyphen"/>men.</p>
+                     <p>The feare of the Lord is the glory as well of the rich, and the noble, as of the poore.</p>
+                     <p>It is not meet to deſpiſe the poore man that hath underſtanding: nei<g ref="char:EOLhyphen"/>ther is it convenient to magnifie the rich that is a wicked man.</p>
+                     <p>The great man, and the Judge, and the man in authority, are honourable; yet is there none greater then he that feareth the Lord.</p>
+                  </div>
+                  <div n="11" type="chapter">
+                     <head>
+                        <hi>Chap.</hi> 11.</head>
+                     <p>VVIſdome ſetteth up the head of him that is low, and maketh him to ſit among great men.</p>
+                     <p>Commend not a man for his beau<g ref="char:EOLhyphen"/>ty: neither deſpiſe a man in his out<g ref="char:EOLhyphen"/>ward
+<pb n="150" facs="tcp:169930:79"/>
+appearance.</p>
+                     <p>Be not proud of clothing and ray<g ref="char:EOLhyphen"/>ment, and exalt not thy ſelfe in the day of honour; for the works of the Lord are wonderfull, and glorious, ſecret and unknown are his works a<g ref="char:EOLhyphen"/>mong men.</p>
+                     <p>Blame no man before thou haſt in<g ref="char:EOLhyphen"/>quired the matter: underſtand firſt, and then reforme righteouſly.</p>
+                     <p>Give no ſentence, before thou haſt heard the Cauſe, neither interrupt men in the midſt of their tales.</p>
+                     <p>Proſperity and adverſity, life and death, poverty and riches come of the Lord.</p>
+                     <p>The gift of the Lord remaineth for the godly, and his good will giveth proſperity for ever.</p>
+                     <p>In thy good ſtate remember ad<g ref="char:EOLhyphen"/>verſity: and in adverſity forget not proſperity.</p>
+                     <p>For it is an eaſie thing unto the
+<pb n="151" facs="tcp:169930:79"/>
+Lord in the day of death to reward a man according to his wayes.</p>
+                     <p>The adverſity of an houre maketh one to forget pleaſure: and in a mans end his works are diſcovered.</p>
+                     <p>Judge no man bleſſed before his death.</p>
+                  </div>
+                  <div n="12" type="chapter">
+                     <head>
+                        <hi>Chap.</hi> 12.</head>
+                     <p>VVHen thou wilt doe good, know to whom thou doſt it, ſo ſhalt thou be thanked for thy bene<g ref="char:EOLhyphen"/>fits.</p>
+                     <p>Do good unto the righteous, and thou ſhalt find great reward, though not of him, yet of the moſt high.</p>
+                     <p>Bind not two ſins together, for there ſhall not one be unpunniſhed.</p>
+                  </div>
+                  <div n="14" type="chapter">
+                     <head>
+                        <hi>Chap.</hi> 14.</head>
+                     <p>BLeſſed is the man that hath not falne by the word of his mouth,
+<pb n="152" facs="tcp:169930:80"/>
+and is not tormented with the ſor<g ref="char:EOLhyphen"/>row of ſinne.</p>
+                     <p>Bleſſed is the man that is not con<g ref="char:EOLhyphen"/>demned in his conſcience, and is not falne from his hope in the Lord.</p>
+                     <p>Doe good unto thy friend before thou dye, and according to thy abili<g ref="char:EOLhyphen"/>ty ſtretch out thy hand and give him.</p>
+                     <p>He that feareth the Lord will doe good: and he that hath the know<g ref="char:EOLhyphen"/>ledge of the Law, will keep it ſure.</p>
+                  </div>
+                  <div n="21" type="chapter">
+                     <head>
+                        <hi>Chap.</hi> 21.</head>
+                     <p>MY ſon, haſt thou ſinned? do ſo no more, but pray for the for<g ref="char:EOLhyphen"/>mer ſins, that they may be forgiven thee.</p>
+                     <p>Flye from ſinne, as from a ſerpent, for if thou commeſt neare it, it will bite thee: the teeth thereof are as the teeth of a Lyon to ſlay the ſoules of men.</p>
+                     <pb n="153" facs="tcp:169930:80"/>
+                     <p>All iniquity is as a two edged ſword, the wounds where of cannot be healed.</p>
+                     <p>The prayer of the poore going out of the mouth, commeth unto the ears of the Lord, and juſtice is done unto him incontinently.</p>
+                     <p>Whoſo hateth to be reformed, is in the way of ſinners: but he that feareth the Lord converteth in heart.</p>
+                  </div>
+                  <div n="23" type="chapter">
+                     <head>
+                        <hi>Chap.</hi> 23.</head>
+                     <p>ACcuſtom not thy mouth to ſwea<g ref="char:EOLhyphen"/>ring, for in it there are many falls; neither take up for a cuſtome the naming of the Holy one, for thou ſhalt not bee unpuniſhed for ſuch things.</p>
+                     <p>A man that uſeth much ſwearing, ſhall be filled with wickedneſſe, and the plague ſhal never go fro<g ref="char:cmbAbbrStroke">̄</g> his houſ<g ref="char:punc">▪</g> when he ſhall offend, his fault ſhalbe
+<pb n="154" facs="tcp:169930:81"/>
+upon him; and if he acknowledge not his ſinne, he maketh a double of<g ref="char:EOLhyphen"/>fence: and if he ſweare in vaine, he ſhall not be innocent, but his houſe ſhall be full of plagues.</p>
+                     <p>Who ſhall ſet a watch before my mouth, and a ſeale of wiſdome upon my lips, that I fall not ſuddenly, and that my tongue deſtroy me not?</p>
+                     <p>O Lord, Father and Governour of my whole life, leave me not to the Counſell of the wicked, and let mee not fall by them.</p>
+                     <p>Who will correct my thought, and put the doctrine of wiſdome in mine heart, leſt my ignorances increaſe, and my ſins abound to my deſtruction, and leſt I fall before my adverſaries, and my enemies rejoyce over mee, whoſe hope is far from thy mercy.</p>
+                     <p>O Lord, Father, and God of my life, leave me not in their imagina<g ref="char:EOLhyphen"/>tions, neither give me a proud looke,
+<pb n="155" facs="tcp:169930:81"/>
+but turne away from thy ſervant a haughty minde.</p>
+                     <p>Take from me vaine hope and con<g ref="char:EOLhyphen"/>cupiſcence, and retaine him in obe<g ref="char:EOLhyphen"/>dience that deſireth continually to ſerve thee.</p>
+                     <p>Let not the greedineſſe of the belly, nor luſt of the fleſh hold me, and give not me thy ſervant over into an im<g ref="char:EOLhyphen"/>pudent minde.</p>
+                  </div>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
